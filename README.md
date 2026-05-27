@@ -25,7 +25,9 @@
 
 </div>
 
+
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
 
 ## Current Direction
 
@@ -39,62 +41,25 @@
 
 <div/>
 
+
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-
-
-
-## Operating Model
+## What I Like Building
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <strong>Specify</strong>
-      <br/>
-      <sub>configs / run specs</sub>
-    </td>
-    <td align="center" width="150">
-      <strong>Deploy</strong>
-      <br/>
-      <sub>containers / k8s</sub>
-    </td>
-    <td align="center" width="150">
-      <strong>Observe</strong>
-      <br/>
-      <sub>metrics / logs</sub>
-    </td>
-    <td align="center" width="150">
-      <strong>Stress</strong>
-      <br/>
-      <sub>failures / drills</sub>
-    </td>
-    <td align="center" width="150">
-      <strong>Document</strong>
-      <br/>
-      <sub>runbooks / reports</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Specify-Run%20Specs-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deploy-Kubernetes-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Observe-Prometheus%20%2B%20Grafana-F97316?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Stress-Failure%20Drills-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Document-Runbooks-0F766E?style=for-the-badge" />
+![CLIs](https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Runbooks](https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge)
+![Data Infra](https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge)
 
 </div>
 
 
-
-
-
-
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
 
 ## Stack
 
@@ -151,13 +116,8 @@
 
 </div>
 
+
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
-
-
-
-
-
 
 
 ## Current Lab
@@ -209,29 +169,8 @@ infrastructure, deployment, observability, reproducibility, and operational boun
 </div>
 
 
-
-
-
-
-
-
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
-## What I Like Building
-
-<div align="center">
-
-![CLIs](https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Runbooks](https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge)
-![Data Infra](https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge)
-
-</div>
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 <div align="center">
 
