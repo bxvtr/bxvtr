@@ -10,32 +10,32 @@
     <g transform="translate(0, 78)">
       <rect width="372" height="112" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="110" rx="13" stroke="#1E293B" stroke-width="1"/>
-      <text x="28" y="36" fill="#58A6FF" font-size="14" font-weight="700">Scoped Work</text>
-      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Small slices &#183; clear boundaries &#183; finite</text>
+      <text x="28" y="42" fill="#58A6FF" font-size="14" font-weight="700">Scoped Work</text>
+      <text x="28" y="80" fill="#CBD5E1" font-size="12" font-weight="500">Small slices &#183; clear boundaries &#183; finite</text>
     </g>
 
     <!-- Card 2 -->
     <g transform="translate(388, 78)">
       <rect width="372" height="112" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="110" rx="13" stroke="#1E293B" stroke-width="1"/>
-      <text x="28" y="36" fill="#58A6FF" font-size="14" font-weight="700">AI-Assisted Development</text>
-      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">ChatGPT + Cursor &#183; human-owned review</text>
+      <text x="28" y="42" fill="#58A6FF" font-size="14" font-weight="700">AI-Assisted Development</text>
+      <text x="28" y="80" fill="#CBD5E1" font-size="12" font-weight="500">ChatGPT + Cursor &#183; human-owned review</text>
     </g>
 
     <!-- Card 3 -->
     <g transform="translate(0, 206)">
       <rect width="372" height="112" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="110" rx="13" stroke="#1E293B" stroke-width="1"/>
-      <text x="28" y="36" fill="#58A6FF" font-size="14" font-weight="700">Linux-First Workspace</text>
-      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Fedora Atomic + Hyprland &#183; terminal-driven</text>
+      <text x="28" y="42" fill="#58A6FF" font-size="14" font-weight="700">Linux-First Workspace</text>
+      <text x="28" y="80" fill="#CBD5E1" font-size="12" font-weight="500">Fedora Atomic + Hyprland &#183; terminal-driven</text>
     </g>
 
     <!-- Card 4 -->
     <g transform="translate(388, 206)">
       <rect width="372" height="112" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="110" rx="13" stroke="#1E293B" stroke-width="1"/>
-      <text x="28" y="36" fill="#58A6FF" font-size="14" font-weight="700">Implementation Loop</text>
-      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Audit &#x279D; Implement &#x279D; Review &amp; Verify</text>
+      <text x="28" y="42" fill="#58A6FF" font-size="14" font-weight="700">Implementation Loop</text>
+      <text x="28" y="80" fill="#CBD5E1" font-size="12" font-weight="500">Audit &#x279D; Implement &#x279D; Review &amp; Verify</text>
     </g>
 
   </g>
