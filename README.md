@@ -84,9 +84,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/AI--Assisted-Human--Owned-7C3AED?style=for-the-badge" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/Ops%20Mindset-Logs%20%2B%20metrics%20%2B%20runbooks%20%2B%20failure-0E7490?style=for-the-badge" />
 
 </div>
