@@ -27,7 +27,7 @@
       <rect width="372" height="112" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="110" rx="13" stroke="#1E293B" stroke-width="1"/>
       <text x="28" y="36" fill="#58A6FF" font-size="14" font-weight="700">Linux-First Workspace</text>
-      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Fedora Atomic &#183; Hyprland &#183; terminal-driven</text>
+      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Fedora Atomic + Hyprland &#183; terminal-driven</text>
     </g>
 
     <!-- Card 4 -->
@@ -35,7 +35,7 @@
       <rect width="372" height="112" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="110" rx="13" stroke="#1E293B" stroke-width="1"/>
       <text x="28" y="36" fill="#58A6FF" font-size="14" font-weight="700">Implementation Loop</text>
-      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Audit &#x279D; Implement &#x279D; Review &#x279D; Verify</text>
+      <text x="28" y="74" fill="#CBD5E1" font-size="12" font-weight="500">Audit &#x279D; Implement &#x279D; Review &amp; Verify</text>
     </g>
 
   </g>

@@ -53,25 +53,6 @@
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-## What I Build
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-475569?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-EA580C?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Runbooks-Incident%20Thinking-0F766E?style=for-the-badge" />
-
-</div>
-
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
-
 ## Operating Style
 
 <p align="center">

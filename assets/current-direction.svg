@@ -38,9 +38,9 @@
       <rect width="365" height="126" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="363" height="124" rx="13" stroke="#1E293B" stroke-width="1"/>
       <text x="22" y="32" fill="#58A6FF" font-size="14" font-weight="700">Not focused on</text>
-      <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">Trading signals · Strategy libraries</text>
-      <text x="22" y="81" fill="#CBD5E1" font-size="12" font-weight="500">Frontend apps</text>
-      <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">Social media presence</text>
+      <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">Trading signals</text>
+      <text x="22" y="81" fill="#CBD5E1" font-size="12" font-weight="500">Strategy libraries</text>
+      <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">Frontend apps</text>
     </g>
 
   </g>
