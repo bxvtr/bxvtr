@@ -59,14 +59,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-475569?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-EA580C?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Runbooks-Incident%20Thinking-64748B?style=for-the-badge" />
 
 </div>
 
@@ -78,8 +78,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Scoped%20Work-Small%20slices%20%2B%20clear%20boundaries-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow-Audit%20%E2%9E%9D%20Implement%20%E2%9E%9D%20Review%20%2B%20Verify-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scoped%20Work-Small%20slices%20%2B%20clear%20boundaries-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-Audit%20%E2%9E%9D%20Implement%20%E2%9E%9D%20Review%20%2B%20Verify-1D4ED8?style=for-the-badge" />
 
 <br/>
 
@@ -87,7 +87,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ops%20Mindset-Logs%20%2B%20metrics%20%2B%20runbooks%20%2B%20failure-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ops%20Mindset-Logs%20%2B%20metrics%20%2B%20runbooks%20%2B%20failure-0E7490?style=for-the-badge" />
 
 </div>
 
