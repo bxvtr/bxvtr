@@ -9,13 +9,26 @@
 <br/>
 <br/>
 
-![SRE](https://img.shields.io/badge/SRE-Reliability%20Engineering-0F172A?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Internal%20Infrastructure-1E293B?style=for-the-badge)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-Kubernetes%20%2B%20GitOps-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-Prometheus%20%2B%20Grafana-F97316?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation%20%2B%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true" height="165px"/>
+<table>
+  <tr>
+    <td align="left" valign="middle" width="52%">
+      <img src="https://img.shields.io/badge/SRE-Reliability%20Engineering-0F172A?style=for-the-badge" alt="SRE"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Platform-Internal%20Infrastructure-1E293B?style=for-the-badge" alt="Platform"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Infrastructure-Kubernetes%20%2B%20GitOps-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Infrastructure"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Observability-Prometheus%20%2B%20Grafana-F97316?style=for-the-badge&logo=grafana&logoColor=white" alt="Observability"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-Automation%20%2B%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <td align="center" valign="middle" width="48%">
+      <img alt="GitHub Stats"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true"
+           height="170px"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
