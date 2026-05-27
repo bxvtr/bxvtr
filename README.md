@@ -29,100 +29,50 @@
 
 ## Current Direction
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Focus</h3>
-      <p>
-        SRE, infrastructure, observability, deployment automation,
-        operational systems
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 Approach</h3>
-      <p>
-        Learning by building small, production-like systems with clear
-        operational boundaries
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Applied Context</h3>
-      <p>
-        Domain-specific infrastructure: trading-adjacent systems,
-        data workflows, run automation, monitoring
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚫 Not focused on</h3>
-      <p>
-        Trading signals, strategy libraries, frontend apps,
-        social media presence
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Current Direction
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🎯 Focus</strong><br><br>
-      SRE · Infrastructure · Observability · Deployment automation · Operational systems
-    </td>
-    <td width="50%" valign="top">
-      <strong>🧪 Approach</strong><br><br>
-      Learning by building small, production-like systems with clear operational boundaries
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>⚙️ Applied Context</strong><br><br>
-      Trading-adjacent systems · Data workflows · Run automation · Monitoring
-    </td>
-    <td width="50%" valign="top">
-      <strong>🚫 Not focused on</strong><br><br>
-      Trading signals · Strategy libraries · Frontend apps · Social media presence
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="./assets/current-direction.svg"
+    alt="Current direction: focus, approach, applied context, and not focused on"
+    width="760"
+  />
+</p>
 
 <div/>
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
-## Reliability Loop
+
+
+
+
+## Operating Model
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <strong>Build</strong>
+    <td align="center" width="150">
+      <strong>Specify</strong>
       <br/>
-      <sub>specs / CLIs</sub>
+      <sub>configs / run specs</sub>
     </td>
-    <td align="center" width="120">
-      <strong>Run</strong>
+    <td align="center" width="150">
+      <strong>Deploy</strong>
       <br/>
       <sub>containers / k8s</sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <strong>Observe</strong>
       <br/>
       <sub>metrics / logs</sub>
     </td>
-    <td align="center" width="120">
-      <strong>Break</strong>
+    <td align="center" width="150">
+      <strong>Stress</strong>
       <br/>
-      <sub>failure drills</sub>
+      <sub>failures / drills</sub>
     </td>
-    <td align="center" width="120">
-      <strong>Improve</strong>
+    <td align="center" width="150">
+      <strong>Document</strong>
       <br/>
       <sub>runbooks / reports</sub>
     </td>
@@ -131,13 +81,18 @@
 
 <br/>
 
-![Build](https://img.shields.io/badge/Build-Specs%20%2B%20CLIs-111827?style=flat-square)
-![Run](https://img.shields.io/badge/Run-Containers%20%2B%20K8s-2563EB?style=flat-square)
-![Observe](https://img.shields.io/badge/Observe-Metrics%20%2B%20Logs-F97316?style=flat-square)
-![Break](https://img.shields.io/badge/Break-Failure%20Drills-7C3AED?style=flat-square)
-![Improve](https://img.shields.io/badge/Improve-Runbooks%20%2B%20Reports-0F766E?style=flat-square)
+<img src="https://img.shields.io/badge/Specify-Run%20Specs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deploy-Kubernetes-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Observe-Prometheus%20%2B%20Grafana-F97316?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Stress-Failure%20Drills-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Document-Runbooks-0F766E?style=for-the-badge" />
 
 </div>
+
+
+
+
+
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
@@ -198,30 +153,67 @@
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
+
+
+
+
+
+
+
 ## Current Lab
 
 <div align="center">
 
+<a href="https://github.com/TradingChassis">
+  <img src="https://img.shields.io/badge/TradingChassis-Infrastructure%20%2B%20Reliability%20Lab-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
 <table>
   <tr>
-    <td width="220"><strong>TradingChassis</strong></td>
-    <td>
-      Infrastructure and reliability lab for applying SRE ideas to a trading-adjacent domain.
+    <td align="center" width="240">
+      <strong>Domain</strong>
       <br/>
-      Focused on reproducible environments, Kubernetes, GitOps, observability, operational boundaries, and future run workflows.
+      <sub>trading-adjacent systems</sub>
+    </td>
+    <td align="center" width="240">
+      <strong>Focus</strong>
+      <br/>
+      <sub>SRE / infrastructure / observability</sub>
+    </td>
+    <td align="center" width="240">
+      <strong>Goal</strong>
+      <br/>
+      <sub>reliable operational workflows</sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<a href="https://github.com/TradingChassis">
-  <img src="https://img.shields.io/badge/TradingChassis-Infrastructure%20Lab-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Scope-Reliability%20%2B%20Operations-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Domain-Trading--Adjacent-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-GitOps%20Infrastructure-2563EB?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Observability-Prometheus%20%2B%20Grafana-F97316?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Operations-Runbooks%20%2B%20Failure%20Drills-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Scope-Reproducible%20Environments-7C3AED?style=flat-square" />
+
+<br/>
+<br/>
+
+<sub>
+TradingChassis is where I apply reliability engineering to a concrete domain:
+infrastructure, deployment, observability, reproducibility, and operational boundaries.
+</sub>
 
 </div>
+
+
+
+
+
+
+
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
