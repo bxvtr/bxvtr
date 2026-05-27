@@ -4,34 +4,35 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=self-directed+infrastructure+developer;building+small+production-like+systems;focused+on+SRE%2C+observability+and+automation;applying+reliability+engineering+to+trading-adjacent+infra" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=self-directed+infrastructure+developer;building+small+production-like+systems;focused+on+SRE%2C+observability+and+automation;building+reliable+systems+with+real+operational+context" />
 
 <br/>
 <br/>
 
 ![SRE](https://img.shields.io/badge/SRE-Reliability%20Engineering-0F172A?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Internal%20Infrastructure-1E293B?style=for-the-badge)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Kubernetes%20%2B%20GitOps-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Observability](https://img.shields.io/badge/Observability-Prometheus%20%2B%20Grafana-F97316?style=for-the-badge&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation%20%2B%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## Current Direction
 
 <table>
   <tr>
-    <td width="160"><strong>Focus</strong></td>
+    <td width="170"><strong>Focus</strong></td>
     <td>SRE, infrastructure, observability, deployment automation, operational systems</td>
   </tr>
   <tr>
-    <td><strong>Style</strong></td>
+    <td><strong>Approach</strong></td>
     <td>learning by building small, production-like systems with clear operational boundaries</td>
   </tr>
   <tr>
-    <td><strong>Domain</strong></td>
-    <td>trading-adjacent infrastructure, reproducible runs, monitoring, failure-aware workflows</td>
+    <td><strong>Applied Context</strong></td>
+    <td>domain-specific infrastructure: trading-adjacent systems, data workflows, run automation, monitoring</td>
   </tr>
   <tr>
     <td><strong>Not focused on</strong></td>
@@ -39,19 +40,53 @@
   </tr>
 </table>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## Reliability Loop
 
 <div align="center">
 
-| Build | Run | Observe | Break | Improve |
-|<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>|<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>|<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>|<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>|<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>|
-| specs / CLIs | containers / k8s | metrics / logs | failure drills | runbooks / reports |
+<table>
+  <tr>
+    <td align="center" width="120">
+      <strong>Build</strong>
+      <br/>
+      <sub>specs / CLIs</sub>
+    </td>
+    <td align="center" width="120">
+      <strong>Run</strong>
+      <br/>
+      <sub>containers / k8s</sub>
+    </td>
+    <td align="center" width="120">
+      <strong>Observe</strong>
+      <br/>
+      <sub>metrics / logs</sub>
+    </td>
+    <td align="center" width="120">
+      <strong>Break</strong>
+      <br/>
+      <sub>failure drills</sub>
+    </td>
+    <td align="center" width="120">
+      <strong>Improve</strong>
+      <br/>
+      <sub>runbooks / reports</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Build](https://img.shields.io/badge/Build-Specs%20%2B%20CLIs-111827?style=flat-square)
+![Run](https://img.shields.io/badge/Run-Containers%20%2B%20K8s-2563EB?style=flat-square)
+![Observe](https://img.shields.io/badge/Observe-Metrics%20%2B%20Logs-F97316?style=flat-square)
+![Break](https://img.shields.io/badge/Break-Failure%20Drills-7C3AED?style=flat-square)
+![Improve](https://img.shields.io/badge/Improve-Runbooks%20%2B%20Reports-0F766E?style=flat-square)
 
 </div>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## Stack
 
@@ -108,7 +143,7 @@
 
 </div>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## Current Lab
 
@@ -118,7 +153,7 @@
   <tr>
     <td width="220"><strong>TradingChassis</strong></td>
     <td>
-      Infrastructure and reliability lab for trading-adjacent systems.
+      Infrastructure and reliability lab for applying SRE ideas to a trading-adjacent domain.
       <br/>
       Focused on reproducible environments, Kubernetes, GitOps, observability, operational boundaries, and future run workflows.
     </td>
@@ -130,10 +165,12 @@
 <a href="https://github.com/TradingChassis">
   <img src="https://img.shields.io/badge/TradingChassis-Infrastructure%20Lab-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/Scope-Reliability%20%2B%20Operations-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Domain-Trading--Adjacent-F97316?style=for-the-badge" />
 
 </div>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## What I Like Building
 
@@ -147,7 +184,7 @@
 
 </div>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## GitHub Activity
 
@@ -155,11 +192,9 @@
 
 <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true" height="165px"/>
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxvtr&layout=compact&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&text_color=CBD5E1&hide_progress=true" height="165px"/>
-
 </div>
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="16"/>
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 <div align="center">
 
