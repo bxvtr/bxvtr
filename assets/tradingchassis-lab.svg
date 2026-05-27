@@ -1,0 +1,52 @@
+<svg width="840" height="285" viewBox="0 0 840 285" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="840" height="285" rx="18" fill="#0F172A"/>
+  <rect x="1" y="1" width="838" height="283" rx="17" stroke="#1E293B" stroke-width="1"/>
+
+  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+
+    <!-- Header -->
+    <text x="34" y="46" fill="#58A6FF" font-size="15" font-weight="700">Lab</text>
+    <text x="34" y="84" fill="#FFFFFF" font-size="28" font-weight="800">TradingChassis</text>
+    <text x="34" y="116" fill="#CBD5E1" font-size="14" font-weight="500">
+      Applied infrastructure / reliability lab — trading-adjacent domain.
+    </text>
+
+    <!-- CTA Button -->
+    <g transform="translate(644, 38)">
+      <rect width="162" height="38" rx="10" fill="#1E293B"/>
+      <rect x="1" y="1" width="160" height="36" rx="9" stroke="#334155" stroke-width="1"/>
+      <text x="18" y="24" fill="#FFFFFF" font-size="12" font-weight="700">View GitHub Org &#x279D;</text>
+    </g>
+
+    <!-- Divider -->
+    <line x1="34" y1="145" x2="806" y2="145" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- Sub Card 1 -->
+    <g transform="translate(34, 165)">
+      <rect width="248" height="100" rx="13" fill="#111827"/>
+      <rect x="1" y="1" width="246" height="98" rx="12" stroke="#1E293B" stroke-width="1"/>
+      <text x="20" y="30" fill="#58A6FF" font-size="13" font-weight="700">Domain-aware systems</text>
+      <text x="20" y="56" fill="#CBD5E1" font-size="12" font-weight="500">Trading-adjacent workflows</text>
+      <text x="20" y="74" fill="#CBD5E1" font-size="12" font-weight="500">with operational boundaries</text>
+    </g>
+
+    <!-- Sub Card 2 -->
+    <g transform="translate(296, 165)">
+      <rect width="248" height="100" rx="13" fill="#111827"/>
+      <rect x="1" y="1" width="246" height="98" rx="12" stroke="#1E293B" stroke-width="1"/>
+      <text x="20" y="30" fill="#58A6FF" font-size="13" font-weight="700">Reliability engineering</text>
+      <text x="20" y="56" fill="#CBD5E1" font-size="12" font-weight="500">reproducibility</text>
+      <text x="20" y="74" fill="#CBD5E1" font-size="12" font-weight="500">observability</text>
+    </g>
+
+    <!-- Sub Card 3 -->
+    <g transform="translate(558, 165)">
+      <rect width="248" height="100" rx="13" fill="#111827"/>
+      <rect x="1" y="1" width="246" height="98" rx="12" stroke="#1E293B" stroke-width="1"/>
+      <text x="20" y="30" fill="#58A6FF" font-size="13" font-weight="700">Domain context</text>
+      <text x="20" y="56" fill="#CBD5E1" font-size="12" font-weight="500">Systems shaped by realistic</text>
+      <text x="20" y="74" fill="#CBD5E1" font-size="12" font-weight="500">operational constraints</text>
+    </g>
+
+  </g>
+</svg>
