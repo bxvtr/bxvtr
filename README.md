@@ -170,8 +170,7 @@
   <kbd>
     <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,timescaledb,minio&perline=3" title="PostgreSQL, TimescaleDB, MinIO"/> -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,minio&perline=2" title="PostgreSQL, MinIO"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="48" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/amazons3/569A31?viewbox=auto&size=48" height="48" title="Amazon S3"/>
   </kbd>
 </p>
 
