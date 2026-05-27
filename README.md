@@ -136,18 +136,17 @@
 
 
 
-
-## Stack
+## Stackgreg
 
 <p align="center">
   <kbd>
-    <strong><big>Languages</big></strong>
+    <font size="4"><strong>Languages</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <strong><big>Infrastructure</big></strong>
+    <font size="4"><strong>Infrastructure</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" title="Linux, Docker, Kubernetes"/>
   </kbd>
@@ -155,13 +154,13 @@
 
 <p align="center">
   <kbd>
-    <strong><big>Observability</big></strong>
+    <font size="4"><strong>Observability</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=prometheus,grafana" title="Prometheus, Grafana"/>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <strong><big>Data / Storage</big></strong>
+    <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
     <img src="https://cdn.simpleicons.org/timescale/FD9B27" height="48" title="TimescaleDB"/>
@@ -171,7 +170,7 @@
 
 <p align="center">
   <kbd>
-    <strong><big>Delivery / Ops</big></strong>
+    <font size="4"><strong>Delivery / Ops</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions" title="Git, GitHub, GitHub Actions"/>
     <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="Argo CD"/>
@@ -179,7 +178,7 @@
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <strong><big>Workspace</big></strong>
+    <font size="4"><strong>Workspace</strong></font>
     <br/><br/>
     <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue"/>
     <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland"/>
