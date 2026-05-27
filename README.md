@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=self-directed+infrastructure+developer;building+small+production-like+systems;focused+on+SRE%2C+observability%2C+and+automation;building+reliable+systems+with+real+operational+context" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=self-directed+infrastructure+developer;building+reliability-focused+lab+systems;focused+on+SRE%2C+observability%2C+and+automation;turning+domain+complexity+into+operational+workflows" />
 
 <br/>
 <br/>
@@ -39,13 +39,11 @@
   />
 </p>
 
-<div/>
-
 <p align="center">
   <a href="https://github.com/TradingChassis">
     <img
       src="./assets/tradingchassis-lab.svg"
-      alt="TradingChassis: technology, infrastructure, reliability, and business context"
+      alt="TradingChassis: applied infrastructure and reliability lab in a trading-adjacent domain"
       width="760"
     />
   </a>
@@ -66,7 +64,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-EA580C?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Runbooks-Incident%20Thinking-64748B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Runbooks-Incident%20Thinking-0F766E?style=for-the-badge" />
 
 </div>
 
@@ -76,17 +74,13 @@
 
 ## Operating Style
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scoped%20Work-Small%20slices%20%2B%20clear%20boundaries-334155?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow-Audit%20%E2%9E%9D%20Implement%20%E2%9E%9D%20Review%20%2B%20Verify-1D4ED8?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI--Assisted-Human--Owned-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ops%20Mindset-Logs%20%2B%20metrics%20%2B%20runbooks%20%2B%20failure-0E7490?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img
+    src="./assets/operating-style.svg"
+    alt="Operating style: scoped work, AI-assisted development, Linux-first environment"
+    width="760"
+  />
+</p>
 
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
