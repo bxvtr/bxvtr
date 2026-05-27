@@ -160,10 +160,12 @@
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <font size="4"><strong>Data / Storage</strong></font>
+    <strong>Data / Storage</strong>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+    &nbsp;
     <img src="https://cdn.simpleicons.org/timescale/FD9B27" height="48" title="TimescaleDB"/>
+    &nbsp;
     <img src="https://cdn.simpleicons.org/minio/C72E49" height="48" title="MinIO"/>
   </kbd>
 </p>
