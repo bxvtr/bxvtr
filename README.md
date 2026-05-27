@@ -71,15 +71,15 @@
 
 <p align="center">
   <kbd>
-    <font size="4">Languages</font>
+    <font size="4"><strong>Languages</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
+    <img src="https://skillicons.dev/icons?i=python,rust,bash" height="42" title="Python, Rust, Bash"/>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <font size="4"><strong>Infrastructure</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" title="Linux, Docker, Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" height="42" title="Linux, Docker, Kubernetes"/>
   </kbd>
 </p>
 
@@ -87,13 +87,13 @@
   <kbd>
     <font size="4"><strong>Observability</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana" title="Prometheus, Grafana"/>
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="42" title="Prometheus, Grafana"/>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="42" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="42" title="MinIO / S3-compatible object storage"/>
+    <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="42" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="42" title="MinIO / S3-compatible object storage"/>
   </kbd>
 </p>
 
@@ -101,7 +101,7 @@
   <kbd>
     <font size="4"><strong>Delivery / Ops</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions" title="Git, GitHub, GitHub Actions"/>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" height="42" title="Git, GitHub, GitHub Actions"/>
     <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="42" title="Argo CD"/>
     <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="42" title="MLflow"/>
   </kbd>
