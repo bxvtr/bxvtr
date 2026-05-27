@@ -15,30 +15,52 @@
 ![Observability](https://img.shields.io/badge/Observability-Prometheus%20%2B%20Grafana-F97316?style=for-the-badge&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation%20%2B%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true" height="165px"/>
+
 </div>
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 ## Current Direction
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="170"><strong>Focus</strong></td>
-    <td>SRE, infrastructure, observability, deployment automation, operational systems</td>
+    <td width="50%" valign="top">
+      <h3>🎯 Focus</h3>
+      <p>
+        SRE, infrastructure, observability, deployment automation,
+        operational systems
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Approach</h3>
+      <p>
+        Learning by building small, production-like systems with clear
+        operational boundaries
+      </p>
+    </td>
   </tr>
   <tr>
-    <td><strong>Approach</strong></td>
-    <td>learning by building small, production-like systems with clear operational boundaries</td>
-  </tr>
-  <tr>
-    <td><strong>Applied Context</strong></td>
-    <td>domain-specific infrastructure: trading-adjacent systems, data workflows, run automation, monitoring</td>
-  </tr>
-  <tr>
-    <td><strong>Not focused on</strong></td>
-    <td>trading signals, strategy libraries, frontend apps, social media presence</td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Applied Context</h3>
+      <p>
+        Domain-specific infrastructure: trading-adjacent systems,
+        data workflows, run automation, monitoring
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚫 Not focused on</h3>
+      <p>
+        Trading signals, strategy libraries, frontend apps,
+        social media presence
+      </p>
+    </td>
   </tr>
 </table>
+
+<div/>
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
@@ -185,14 +207,6 @@
 </div>
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true" height="165px"/>
-
-</div>
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
