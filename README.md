@@ -67,7 +67,7 @@
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-## Stackgreg
+## Stack
 
 <p align="center">
   <kbd>
@@ -93,7 +93,7 @@
   <kbd>
     <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="48" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="48" title="MinIO / S3-compatible object storage"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="42" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="48" title="MinIO / S3-compatible object storage"/>
   </kbd>
 </p>
 
