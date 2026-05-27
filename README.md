@@ -170,7 +170,8 @@
   <kbd>
     <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,timescaledb,minio&perline=3" title="PostgreSQL, TimescaleDB, MinIO"/>
+    <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,timescaledb,minio&perline=3" title="PostgreSQL, TimescaleDB, MinIO"/> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,minio&perline=2" title="PostgreSQL, MinIO"/>
   </kbd>
 </p>
 
