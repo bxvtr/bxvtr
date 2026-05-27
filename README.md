@@ -13,13 +13,13 @@
   <img
     src="./assets/badge-stack.svg"
     alt="Infrastructure focus badges"
-    height="165"
+    width="410"
   />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img
     alt="GitHub Stats"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
-    height="165"
+    width="330"
   />
 </p>
 
