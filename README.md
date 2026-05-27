@@ -133,6 +133,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Stack
 
 <div align="center">
@@ -143,7 +154,7 @@
   <img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
 </kbd>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <kbd>
   <strong>Infrastructure</strong>
@@ -151,7 +162,8 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" title="Linux, Docker, Kubernetes"/>
 </kbd>
 
-&nbsp;
+<br/>
+<br/>
 
 <kbd>
   <strong>Observability</strong>
@@ -159,8 +171,7 @@
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" title="Prometheus, Grafana"/>
 </kbd>
 
-<br/>
-<br/>
+&nbsp;&nbsp;&nbsp;
 
 <kbd>
   <strong>Data / Storage</strong>
@@ -170,7 +181,8 @@
   <img src="https://cdn.simpleicons.org/minio/C72E49" height="48" title="MinIO"/>
 </kbd>
 
-&nbsp;
+<br/>
+<br/>
 
 <kbd>
   <strong>Delivery / Ops</strong>
@@ -180,7 +192,7 @@
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow"/>
 </kbd>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <kbd>
   <strong>Workspace</strong>
@@ -194,62 +206,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-## Stack
-
-<div align="center">
-
-<strong>Languages</strong>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
-
-<br/><br/>
-
-<strong>Infrastructure</strong>
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" title="Linux, Docker, Kubernetes"/>
-
-<br/><br/>
-
-<strong>Observability</strong>
-<br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" title="Prometheus, Grafana"/>
-
-<br/><br/>
-
-<strong>Data / Storage</strong>
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
-<img src="https://cdn.simpleicons.org/timescale/FD9B27" height="48" title="TimescaleDB"/>
-<img src="https://cdn.simpleicons.org/minio/C72E49" height="48" title="MinIO"/>
-
-<br/><br/>
-
-<strong>Delivery / Ops</strong>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions" title="Git, GitHub, GitHub Actions"/>
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="Argo CD"/>
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow"/>
-
-<br/><br/>
-
-<strong>Workspace</strong>
-<br/>
-<img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue"/>
-<img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland"/>
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor"/>
-
-</div>
 
 
 
