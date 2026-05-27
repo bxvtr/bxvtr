@@ -71,7 +71,7 @@
 
 <p align="center">
   <kbd>
-    <font size="40"><strong>Languages</strong></font>
+    <font size="4">Languages</font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
   </kbd>
