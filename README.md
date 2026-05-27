@@ -71,7 +71,7 @@
 
 <p align="center">
   <kbd>
-    <font size="4"><strong>Languages</strong></font>
+    <font size="40"><strong>Languages</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
   </kbd>
@@ -111,7 +111,7 @@
     <br/><br/>
     <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="42" title="Fedora Atomic Silverblue"/>
     <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="42" title="Hyprland"/>
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=vscode" height="42" title="VS Code"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="42" title="Cursor"/>
   </kbd>
 </p>
