@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=bxvtr&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Infrastructure%20%7C%20Reliability%20%7C%20Observability&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0B2447&height=180&section=header&text=bxvtr&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Infrastructure%20%7C%20Reliability%20%7C%20Observability&descAlignY=58&descSize=16" />
 
 <br/>
 
@@ -71,6 +71,76 @@
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
+## What I Build
+
+<div align="center">
+
+![CLIs](https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Runbooks](https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge)
+![Data Infra](https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge)
+
+</div>
+
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
+## Operating Style
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="240">
+      <strong>Scoped Work</strong>
+      <br/>
+      <sub>small slices, clear boundaries</sub>
+    </td>
+    <td align="center" width="240">
+      <strong>Implementation Loop</strong>
+      <br/>
+      <sub>audit ➝ implement ➝ review + verify</sub>
+    </td>
+    <td align="center" width="240">
+      <strong>AI-Assisted</strong>
+      <br/>
+      <sub>ChatGPT + Cursor, human-owned review</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="240">
+      <strong>Linux-First</strong>
+      <br/>
+      <sub>Fedora Atomic Silverblue</sub>
+    </td>
+    <td align="center" width="240">
+      <strong>Focused Workspace</strong>
+      <br/>
+      <sub>Hyprland-based workstation</sub>
+    </td>
+    <td align="center" width="240">
+      <strong>Ops Mindset</strong>
+      <br/>
+      <sub>logs, metrics, runbooks, failure thinking</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Workflow-Audit%20%E2%86%92%20Implement%20%E2%86%92%20Review%20%E2%86%92%20Verify-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI--Assisted-ChatGPT%20%2B%20Cursor-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Review-Human--Owned-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux--First-Fedora%20Atomic%20%2B%20Hyprland-0B2447?style=for-the-badge&logo=fedora&logoColor=white" />
+
+</div>
+
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
+## Stack
+
 <div align="center">
 
 <table>
@@ -115,6 +185,13 @@
       <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="43" title="MLflow"/>
     </td>
   </tr>
+  <tr>
+    <td><strong>Workspace</strong></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="43" title="Fedora Atomic Silverblue"/>
+      <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="43" title="Hyprland"/>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -125,6 +202,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:0f172a&height=110&section=footer" />
 
 </div>
