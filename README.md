@@ -136,6 +136,14 @@
 
 
 
+
+
+
+
+
+
+
+
 ## Stackgreg
 
 <p align="center">
@@ -160,13 +168,9 @@
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <strong>Data / Storage</strong>
+    <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
-    &nbsp;
-    <img src="https://cdn.simpleicons.org/timescale/FD9B27" height="48" title="TimescaleDB"/>
-    &nbsp;
-    <img src="https://cdn.simpleicons.org/minio/C72E49" height="48" title="MinIO"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,timescale,minio&perline=3" title="PostgreSQL, TimescaleDB, MinIO"/>
   </kbd>
 </p>
 
@@ -188,6 +192,12 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor"/>
   </kbd>
 </p>
+
+
+
+
+
+
 
 
 
