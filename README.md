@@ -41,11 +41,21 @@
 
 <div/>
 
+<p align="center">
+  <a href="https://github.com/TradingChassis">
+    <img
+      src="./assets/tradingchassis-lab.svg"
+      alt="TradingChassis: technology, infrastructure, reliability, and business context"
+      width="760"
+    />
+  </a>
+</p>
+
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-## What I Like Building
+## What I like building and what I use
 
 <div align="center">
 
@@ -60,8 +70,6 @@
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
-
-## Stack
 
 <div align="center">
 
@@ -98,73 +106,16 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Delivery</strong></td>
+    <td><strong>Delivery / Ops</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git" title="Git"/>
       <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
       <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
       <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="43" title="Argo CD"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Ops / Data Ops</strong></td>
-    <td>
       <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="43" title="MLflow"/>
     </td>
   </tr>
 </table>
-
-</div>
-
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
-
-## Current Lab
-
-<div align="center">
-
-<a href="https://github.com/TradingChassis">
-  <img src="https://img.shields.io/badge/TradingChassis-Infrastructure%20%2B%20Reliability%20Lab-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="240">
-      <strong>Domain</strong>
-      <br/>
-      <sub>trading-adjacent systems</sub>
-    </td>
-    <td align="center" width="240">
-      <strong>Focus</strong>
-      <br/>
-      <sub>SRE / infrastructure / observability</sub>
-    </td>
-    <td align="center" width="240">
-      <strong>Goal</strong>
-      <br/>
-      <sub>reliable operational workflows</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kubernetes-GitOps%20Infrastructure-2563EB?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Observability-Prometheus%20%2B%20Grafana-F97316?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Operations-Runbooks%20%2B%20Failure%20Drills-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Scope-Reproducible%20Environments-7C3AED?style=flat-square" />
-
-<br/>
-<br/>
-
-<sub>
-TradingChassis is where I apply reliability engineering to a concrete domain:
-infrastructure, deployment, observability, reproducibility, and operational boundaries.
-</sub>
 
 </div>
 
