@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=self-directed+infrastructure+developer;building+small+production-like+systems;focused+on+SRE%2C+observability+and+automation;building+reliable+systems+with+real+operational+context" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=self-directed+infrastructure+developer;building+small+production-like+systems;focused+on+SRE%2C+observability%2C+and+automation;building+reliable+systems+with+real+operational+context" />
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@
   &nbsp;&nbsp;&nbsp;
   <img
     alt="GitHub Stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
     height="165"
   />
 </p>
@@ -55,89 +55,45 @@
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-## What I like building and what I use
-
-<div align="center">
-
-![CLIs](https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Runbooks](https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge)
-![Data Infra](https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge)
-
-</div>
-
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
-
 ## What I Build
 
 <div align="center">
 
-![CLIs](https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Runbooks](https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge)
-![Data Infra](https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge)
+<img src="https://img.shields.io/badge/Kubernetes-Deployment%20Workflows-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/CLI%20Tools-Operational%20Automation-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Infra-Reproducible%20Pipelines-0F766E?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Dashboards-Metrics%20%2B%20Signals-F97316?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Runbooks-Incident%20Thinking-334155?style=for-the-badge" />
 
 </div>
 
+
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
 
 ## Operating Style
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="240">
-      <strong>Scoped Work</strong>
-      <br/>
-      <sub>small slices, clear boundaries</sub>
-    </td>
-    <td align="center" width="240">
-      <strong>Implementation Loop</strong>
-      <br/>
-      <sub>audit ➝ implement ➝ review + verify</sub>
-    </td>
-    <td align="center" width="240">
-      <strong>AI-Assisted</strong>
-      <br/>
-      <sub>ChatGPT + Cursor, human-owned review</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="240">
-      <strong>Linux-First</strong>
-      <br/>
-      <sub>Fedora Atomic Silverblue</sub>
-    </td>
-    <td align="center" width="240">
-      <strong>Focused Workspace</strong>
-      <br/>
-      <sub>Hyprland-based workstation</sub>
-    </td>
-    <td align="center" width="240">
-      <strong>Ops Mindset</strong>
-      <br/>
-      <sub>logs, metrics, runbooks, failure thinking</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Scoped%20Work-Small%20slices%20%2B%20clear%20boundaries-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-Audit%20%E2%9E%9D%20Implement%20%E2%9E%9D%20Review%20%2B%20Verify-1E293B?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Workflow-Audit%20%E2%86%92%20Implement%20%E2%86%92%20Review%20%E2%86%92%20Verify-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI--Assisted-ChatGPT%20%2B%20Cursor-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Review-Human--Owned-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux--First-Fedora%20Atomic%20%2B%20Hyprland-0B2447?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/AI--Assisted-Human--Owned-7C3AED?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ops%20Mindset-Logs%20%2B%20metrics%20%2B%20runbooks%20%2B%20failure-0F766E?style=for-the-badge" />
 
 </div>
 
+
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
 
 ## Stack
 
@@ -190,6 +146,8 @@
     <td>
       <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="43" title="Fedora Atomic Silverblue"/>
       <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="43" title="Hyprland"/>
+      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="43" title="Cursor"/>
     </td>
   </tr>
 </table>

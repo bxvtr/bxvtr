@@ -18,9 +18,9 @@
       <rect width="365" height="126" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="363" height="124" rx="13" stroke="#1E293B" stroke-width="1"/>
       <text x="22" y="32" fill="#58A6FF" font-size="14" font-weight="700">Approach</text>
-      <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">Learning by building small,</text>
+      <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">Learning by building and owning small,</text>
       <text x="22" y="81" fill="#CBD5E1" font-size="12" font-weight="500">production-like systems with clear</text>
-      <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">operational boundaries</text>
+      <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">operational boundaries.</text>
     </g>
 
     <!-- Card 3 -->
