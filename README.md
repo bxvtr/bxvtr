@@ -93,7 +93,7 @@
   <kbd>
     <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="42" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="48" title="MinIO / S3-compatible object storage"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="42" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="42" title="MinIO / S3-compatible object storage"/>
   </kbd>
 </p>
 
@@ -102,17 +102,17 @@
     <font size="4"><strong>Delivery / Ops</strong></font>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions" title="Git, GitHub, GitHub Actions"/>
-    <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="Argo CD"/>
-    <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow"/>
+    <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="42" title="Argo CD"/>
+    <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="42" title="MLflow"/>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <font size="4"><strong>Workspace</strong></font>
     <br/><br/>
-    <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue"/>
-    <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland"/>
+    <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="42" title="Fedora Atomic Silverblue"/>
+    <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="42" title="Hyprland"/>
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="42" title="Cursor"/>
   </kbd>
 </p>
 
