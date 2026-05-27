@@ -67,83 +67,6 @@
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-## Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-      <img src="https://skillicons.dev/icons?i=rust" title="Rust"/>
-      <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-      <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Observability</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus"/>
-      <img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data / Storage</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
-      <img src="https://cdn.simpleicons.org/timescale/FD9B27" height="43" title="TimescaleDB"/>
-      <img src="https://cdn.simpleicons.org/minio/C72E49" height="43" title="MinIO"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Delivery / Ops</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-      <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-      <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
-      <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="43" title="Argo CD"/>
-      <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="43" title="MLflow"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Workspace</strong></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="43" title="Fedora Atomic Silverblue"/>
-      <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="43" title="Hyprland"/>
-      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="43" title="Cursor"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Stackgreg
 
 <p align="center">
@@ -170,7 +93,7 @@
   <kbd>
     <font size="4"><strong>Data / Storage</strong></font>
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="48" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/amazons3/569A31?viewbox=auto&size=48" height="48" title="Amazon S3"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="48" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="48" title="MinIO / S3-compatible object storage"/>
   </kbd>
 </p>
 
@@ -192,17 +115,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor"/>
   </kbd>
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
