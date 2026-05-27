@@ -133,62 +133,65 @@
 
 
 
-
-
-
-
-
-
 ## Stack
 
 <div align="center">
 
-<p>
+<kbd>
   <strong>Languages</strong>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=python,rust,bash" title="Python, Rust, Bash"/>
-</p>
+</kbd>
 
-<p>
+&nbsp;
+
+<kbd>
   <strong>Infrastructure</strong>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" title="Linux, Docker, Kubernetes"/>
-</p>
+</kbd>
 
-<p>
+&nbsp;
+
+<kbd>
   <strong>Observability</strong>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" title="Prometheus, Grafana"/>
-</p>
+</kbd>
 
-<p>
+<br/>
+<br/>
+
+<kbd>
   <strong>Data / Storage</strong>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
   <img src="https://cdn.simpleicons.org/timescale/FD9B27" height="48" title="TimescaleDB"/>
   <img src="https://cdn.simpleicons.org/minio/C72E49" height="48" title="MinIO"/>
-</p>
+</kbd>
 
-<p>
+&nbsp;
+
+<kbd>
   <strong>Delivery / Ops</strong>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions" title="Git, GitHub, GitHub Actions"/>
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="Argo CD"/>
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow"/>
-</p>
+</kbd>
 
-<p>
+&nbsp;
+
+<kbd>
   <strong>Workspace</strong>
-  <br/>
+  <br/><br/>
   <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue"/>
   <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor"/>
-</p>
+</kbd>
 
 </div>
-
-
 
 
 
@@ -247,6 +250,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor"/>
 
 </div>
+
 
 
 
