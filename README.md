@@ -72,9 +72,7 @@ as a realistic testbed for hard reliability and production problems.
 <br/>
 
 
-<h3 align="center">
-  <span style="color:#58A6FF;">Current</span>
-</h3>
+<img width="760" alt="Current" src="./assets/headings/current.svg" />
 
 <p align="center">
   <kbd>
@@ -123,9 +121,7 @@ as a realistic testbed for hard reliability and production problems.
   </kbd>
 </p>
 
-<h3 align="center">
-  <span style="color:#58A6FF;">Up Next</span>
-</h3>
+<img width="760" alt="Up Next" src="./assets/headings/up-next.svg" />
 
 <p align="center">
   <kbd>
