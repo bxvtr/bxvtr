@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0B2447&height=180&section=header&text=bxvtr&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Infrastructure%20%7C%20Reliability%20%7C%20Observability&descAlignY=58&descSize=16" />
+# Hi, I’m
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=a+self-directed+Reliability+%2F+Production+Engineering+learner;turning+domain+complexity+into+operational+workflows;focused+on+production+systems%2C+observability%2C+and+automation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=self-directed+infrastructure+developer;building+reliability-focused+lab+systems;focused+on+SRE%2C+observability%2C+and+automation;turning+domain+complexity+into+operational+workflows" />
+</div>
 
-<br/>
-<br/>
+### My projects use trading and market-data infrastructure as a realistic testbed for hard reliability problems:  
+### low latency, high throughput, sequencing, backpressure, failure recovery and incident response
 
 <p align="center">
   <img
@@ -18,12 +20,10 @@
   &nbsp;&nbsp;
   <img
     alt="GitHub Stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
     width="330"
   />
 </p>
-
-</div>
 
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
