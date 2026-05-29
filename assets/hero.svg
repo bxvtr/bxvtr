@@ -3,8 +3,7 @@
         text-anchor="middle"
         font-family="JetBrains Mono, Consolas, monospace"
         font-size="26"
-        font-weight="700"
-        fill="#F8FAFC">
-    Hi, I’m
+        font-weight="700">
+    <tspan fill="#F8FAFC">Hi, </tspan><tspan fill="#58A6FF">I’m</tspan>
   </text>
 </svg>
