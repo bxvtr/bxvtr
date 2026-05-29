@@ -2,7 +2,7 @@
   <rect width="760" height="36" rx="9" fill="#0A1020"/>
   <rect x="0.5" y="0.5" width="759" height="35" rx="8.5" stroke="#1E293B"/>
 
-  <text x="24" y="23"
+  <text x="22" y="23"
         font-family="JetBrains Mono, Consolas, monospace"
         font-size="10"
         font-weight="700"

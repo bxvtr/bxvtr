@@ -1,134 +1,57 @@
 <div align="center">
 
-
 <img width="760" alt="Hi, I’m" src="./assets/hero.svg" />
 
-
 <br/>
-
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=a+self-directed+Reliability+%2F+Production+Engineering+learner;turning+domain+complexity+into+operational+workflows;focused+on+production+systems%2C+observability%2C+and+automation"
 />
-
-
-
-
-<!-- 
-<img
-  align="right"
-  alt="GitHub Stats"
-  width="330"
-  src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
-/>
- -->
-
-
-
-
-
 
 In my projects I use trading and market-data infrastructure  
 as a realistic testbed for hard reliability and production problems.  
 
 <br/>
 
+<img width="760" alt="Repository card header" src="./assets/repo-cards/header.svg" />
 
+<a href="https://github.com/TradingChassis/tradingchassis-ops-lab">
+  <img width="760" alt="tradingchassis-ops-lab" src="./assets/repo-cards/tradingchassis-ops-lab.svg" />
+</a>
 
+<a href="https://github.com/TradingChassis/infrastructure">
+  <img width="760" alt="infrastructure" src="./assets/repo-cards/infrastructure.svg" />
+</a>
 
-<!-- 
-| Repository | Hard Problems Addressed |
-| --- | --- |
-| [`tradingchassis-ops-lab`](https://github.com/TradingChassis/tradingchassis-ops-lab) | Reproducibility, run artifacts, observability, safety boundaries |
-| [`infrastructure`](https://github.com/TradingChassis/infrastructure) | Cluster bootstrap, secret delivery, drift control, platform operations |
-| [`infrastructure-secrets`](https://github.com/TradingChassis/infrastructure-secrets) | Secure secret injection, ARM/AMD64 compatibility, supply-chain builds |
-| [`core`](https://github.com/TradingChassis/core) | Backtest-vs-live drift, deterministic state transitions, risk/execution separation |
-| [`core-runtime`](https://github.com/TradingChassis/core-runtime) | Reproducible environments, job orchestration, config-driven runs |
-| [`docs`](https://github.com/TradingChassis/docs) | Shared semantics, ADRs, runbook readiness, long-term maintainability |
-| [`deribit-latency-tester`](https://github.com/bxvtr/deribit-latency-tester) | Latency measurement, tick-aligned timing, failure behavior, exchange proximity |
-| [`deribit-history-client`](https://github.com/bxvtr/deribit-history-client) | API drift, data quality, event time vs. receive time, backtest boundaries |
-| [`timescale-access`](https://github.com/bxvtr/timescale-access) | Time-series ingestion, schema management, duplicates, sequence gaps | 
- -->
+<a href="https://github.com/TradingChassis/infrastructure-secrets">
+  <img width="760" alt="infrastructure-secrets" src="./assets/repo-cards/infrastructure-secrets.svg" />
+</a>
 
+<a href="https://github.com/TradingChassis/core">
+  <img width="760" alt="core" src="./assets/repo-cards/core.svg" />
+</a>
 
+<a href="https://github.com/TradingChassis/core-runtime">
+  <img width="760" alt="core-runtime" src="./assets/repo-cards/core-runtime.svg" />
+</a>
 
+<a href="https://github.com/TradingChassis/docs">
+  <img width="760" alt="docs" src="./assets/repo-cards/docs.svg" />
+</a>
 
+<a href="https://github.com/bxvtr/deribit-latency-tester">
+  <img width="760" alt="deribit-latency-tester" src="./assets/repo-cards/deribit-latency-tester.svg" />
+</a>
 
+<a href="https://github.com/bxvtr/deribit-history-client">
+  <img width="760" alt="deribit-history-client" src="./assets/repo-cards/deribit-history-client.svg" />
+</a>
 
-![Repository card header](./assets/repo-cards/header.svg)
-
-[![tradingchassis-ops-lab](./assets/repo-cards/tradingchassis-ops-lab.svg)](https://github.com/TradingChassis/tradingchassis-ops-lab)
-
-[![infrastructure](./assets/repo-cards/infrastructure.svg)](https://github.com/TradingChassis/infrastructure)
-
-[![infrastructure-secrets](./assets/repo-cards/infrastructure-secrets.svg)](https://github.com/TradingChassis/infrastructure-secrets)
-
-[![core](./assets/repo-cards/core.svg)](https://github.com/TradingChassis/core)
-
-[![core-runtime](./assets/repo-cards/core-runtime.svg)](https://github.com/TradingChassis/core-runtime)
-
-[![docs](./assets/repo-cards/docs.svg)](https://github.com/TradingChassis/docs)
-
-[![deribit-latency-tester](./assets/repo-cards/deribit-latency-tester.svg)](https://github.com/bxvtr/deribit-latency-tester)
-
-[![deribit-history-client](./assets/repo-cards/deribit-history-client.svg)](https://github.com/bxvtr/deribit-history-client)
-
-[![timescale-access](./assets/repo-cards/timescale-access.svg)](https://github.com/bxvtr/timescale-access)
-
-
-
-
-
-
-
-
+<a href="https://github.com/bxvtr/timescale-access">
+  <img width="760" alt="timescale-access" src="./assets/repo-cards/timescale-access.svg" />
+</a>
 
 </div>
-
-
-
-
-<!-- <p align="center">
-  <img
-    src="./assets/badge-stack.svg"
-    alt="Infrastructure focus badges"
-    width="410"
-  />
-  &nbsp;&nbsp;
-  <img
-    alt="GitHub Stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
-    width="330"
-  />
-</p> -->
-
-
-
-
-
-
-
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="300"/>
-
-
-<p align="center">
-  <img
-    src="./assets/current-direction.svg"
-    alt="Current direction: focus, approach, applied context, and not focused on"
-    width="760"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/TradingChassis">
-    <img
-      src="./assets/tradingchassis-lab.svg"
-      alt="TradingChassis: applied infrastructure and reliability lab in a trading-adjacent domain"
-      width="760"
-    />
-  </a>
-</p>
 
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
@@ -145,8 +68,6 @@ as a realistic testbed for hard reliability and production problems.
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
-
-## Stack
 
 <p align="center">
   <kbd>
