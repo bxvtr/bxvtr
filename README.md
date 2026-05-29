@@ -2,7 +2,9 @@
 
 <img width="760" alt="Hi, I’m" src="./assets/hero.svg" />
 
+
 <br/>
+
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=a+self-directed+Reliability+%2F+Production+Engineering+learner;turning+domain+complexity+into+operational+workflows;focused+on+production+systems%2C+observability%2C+and+automation"
@@ -11,7 +13,9 @@
 In my projects I use trading and market-data infrastructure  
 as a realistic testbed for hard reliability and production problems.  
 
+
 <br/>
+
 
 <img width="760" alt="Repository card header" src="./assets/repo-cards/header.svg" />
 
@@ -51,10 +55,8 @@ as a realistic testbed for hard reliability and production problems.
   <img width="760" alt="timescale-access" src="./assets/repo-cards/timescale-access.svg" />
 </a>
 
-</div>
 
-
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+<br/>
 
 
 <p align="center">
@@ -66,10 +68,10 @@ as a realistic testbed for hard reliability and production problems.
 </p>
 
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+<br/>
 
 
-<h3 align="center">Up Next</h3>
+<h3 align="center">Current</h3>
 
 <p align="center">
   <kbd>
@@ -119,14 +121,10 @@ as a realistic testbed for hard reliability and production problems.
 </p>
 
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+<br/>
 
 
 <h3 align="center">Up Next</h3>
-
-<p align="center">
-  <sub>Focused learning tracks for reliability, automation, and production systems.</sub>
-</p>
 
 <p align="center">
   <kbd>
@@ -165,10 +163,8 @@ as a realistic testbed for hard reliability and production problems.
 </p>
 
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+<br/>
 
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:0f172a&height=110&section=footer" />
 
