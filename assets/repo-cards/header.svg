@@ -1,31 +1,25 @@
-<svg width="760" height="42" viewBox="0 0 760 42" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="760" height="42" rx="10" fill="#020617"/>
-  <rect x="0.5" y="0.5" width="759" height="41" rx="9.5" stroke="#1E293B"/>
+<svg width="760" height="36" viewBox="0 0 760 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="36" rx="9" fill="#020617"/>
+  <rect x="0.5" y="0.5" width="759" height="35" rx="8.5" stroke="#1E293B"/>
 
-  <text x="24" y="26"
+  <text x="24" y="23"
         font-family="JetBrains Mono, Consolas, monospace"
-        font-size="11"
+        font-size="10"
         font-weight="700"
         letter-spacing="1.1"
-        fill="#94A3B8">
-    REPOSITORY
-  </text>
+        fill="#94A3B8">REPOSITORY</text>
 
-  <text x="292" y="26"
+  <text x="292" y="23"
         font-family="JetBrains Mono, Consolas, monospace"
-        font-size="11"
+        font-size="10"
         font-weight="700"
         letter-spacing="1.1"
-        fill="#94A3B8">
-    HARD PROBLEMS ADDRESSED
-  </text>
+        fill="#94A3B8">HARD PROBLEMS ADDRESSED</text>
 
-  <text x="684" y="26"
+  <text x="710" y="23"
         font-family="JetBrains Mono, Consolas, monospace"
-        font-size="11"
+        font-size="10"
         font-weight="700"
         letter-spacing="1.1"
-        fill="#64748B">
-    OPEN ↗
-  </text>
+        fill="#64748B">OPEN</text>
 </svg>
