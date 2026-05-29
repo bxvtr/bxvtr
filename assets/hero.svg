@@ -1,0 +1,9 @@
+<svg width="760" height="48" viewBox="0 0 760 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="380" y="32"
+        text-anchor="middle"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="26"
+        font-weight="700">
+    <tspan fill="#F8FAFC">Hi, </tspan><tspan fill="#58A6FF">I’m</tspan>
+  </text>
+</svg>
