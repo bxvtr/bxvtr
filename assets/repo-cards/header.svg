@@ -9,7 +9,7 @@
         letter-spacing="1.1"
         fill="#94A3B8">REPOSITORY</text>
 
-  <text x="292" y="23"
+  <text x="256" y="23"
         font-family="JetBrains Mono, Consolas, monospace"
         font-size="10"
         font-weight="700"

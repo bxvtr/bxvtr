@@ -15,7 +15,7 @@
   <text x="256" y="32"
         font-family="JetBrains Mono, Consolas, monospace"
         font-size="12.5"
-        fill="#CBD5E1">Backtest/live drift · deterministic state · risk gates</text>
+        fill="#CBD5E1">backtest/live drift · deterministic state · risk gates</text>
 
   <circle cx="724" cy="26" r="14" fill="#111C2E" stroke="#1E293B"/>
 
