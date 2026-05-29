@@ -6,12 +6,46 @@
 
 <br/>
 
+
+
+
+<!-- 
+<img
+  align="right"
+  alt="GitHub Stats"
+  width="330"
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
+/>
+ -->
+
+
+
+
+
+
+
+In my projects I use trading and market-data infrastructure as a realistic testbed for hard reliability and production problems. A quick overview:
+
+| Repository | Hard Problems Addressed |
+| --- | --- |
+| [`tradingchassis-ops-lab`](https://github.com/TradingChassis/tradingchassis-ops-lab) | Reproducibility, run artifacts, observability, safety boundaries |
+| [`infrastructure`](https://github.com/TradingChassis/infrastructure) | Cluster bootstrap, secret delivery, drift control, platform operations |
+| [`infrastructure-secrets`](https://github.com/TradingChassis/infrastructure-secrets) | Secure secret injection, ARM/AMD64 compatibility, supply-chain builds |
+| [`core`](https://github.com/TradingChassis/core) | Backtest-vs-live drift, deterministic state transitions, risk/execution separation |
+| [`core-runtime`](https://github.com/TradingChassis/core-runtime) | Reproducible environments, job orchestration, config-driven runs |
+| [`docs`](https://github.com/TradingChassis/docs) | Shared semantics, ADRs, runbook readiness, long-term maintainability |
+| [`deribit-latency-tester`](https://github.com/bxvtr/deribit-latency-tester) | Latency measurement, tick-aligned timing, failure behavior, exchange proximity |
+| [`deribit-history-client`](https://github.com/bxvtr/deribit-history-client) | API drift, data quality, event time vs. receive time, backtest boundaries |
+| [`timescale-access`](https://github.com/bxvtr/timescale-access) | Time-series ingestion, schema management, duplicates, sequence gaps |
+
+
+
 </div>
 
-### My projects use trading and market-data infrastructure as a realistic testbed for hard reliability problems:  
-### low latency, high throughput, sequencing, backpressure, failure recovery and incident response
 
-<p align="center">
+
+
+<!-- <p align="center">
   <img
     src="./assets/badge-stack.svg"
     alt="Infrastructure focus badges"
@@ -23,13 +57,17 @@
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bxvtr&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0F172A&title_color=58A6FF&icon_color=F8D866&text_color=CBD5E1&hide_rank=true&custom_title=GitHub%20Stats"
     width="330"
   />
-</p>
+</p> -->
 
 
-<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
-## Current Direction
+
+
+
+
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="300"/>
+
 
 <p align="center">
   <img
@@ -52,8 +90,6 @@
 
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
-
-## Operating Style
 
 <p align="center">
   <img
