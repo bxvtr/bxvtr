@@ -1,0 +1,47 @@
+<svg width="760" height="82" viewBox="0 0 760 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="82" rx="12" fill="#0F172A"/>
+  <rect x="0.5" y="0.5" width="759" height="81" rx="11.5" stroke="#1E293B"/>
+
+  <rect x="0" y="0" width="5" height="82" rx="2.5" fill="#58A6FF"/>
+
+  <text x="24" y="33"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="16"
+        font-weight="700"
+        fill="#58A6FF">
+    tradingchassis-ops-lab
+  </text>
+
+  <text x="24" y="56"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="12"
+        fill="#64748B">
+    TradingChassis
+  </text>
+
+  <line x1="268" y1="18" x2="268" y2="64" stroke="#1E293B"/>
+
+  <text x="292" y="34"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="13"
+        fill="#CBD5E1">
+    Reproducibility · run artifacts · observability
+  </text>
+
+  <text x="292" y="55"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="13"
+        fill="#CBD5E1">
+    safety boundaries
+  </text>
+
+  <circle cx="724" cy="41" r="15" fill="#111C2E" stroke="#1E293B"/>
+
+  <text x="717" y="47"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="17"
+        font-weight="700"
+        fill="#58A6FF">
+    ↗
+  </text>
+</svg>

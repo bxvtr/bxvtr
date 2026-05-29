@@ -23,10 +23,14 @@
 
 
 
-
 In my projects I use trading and market-data infrastructure as a realistic testbed for hard reliability and production problems. A quick overview:
 
-| Repository | Hard Problems Addressed |
+
+
+
+
+
+<!-- | Repository | Hard Problems Addressed |
 | --- | --- |
 | [`tradingchassis-ops-lab`](https://github.com/TradingChassis/tradingchassis-ops-lab) | Reproducibility, run artifacts, observability, safety boundaries |
 | [`infrastructure`](https://github.com/TradingChassis/infrastructure) | Cluster bootstrap, secret delivery, drift control, platform operations |
@@ -36,7 +40,29 @@ In my projects I use trading and market-data infrastructure as a realistic testb
 | [`docs`](https://github.com/TradingChassis/docs) | Shared semantics, ADRs, runbook readiness, long-term maintainability |
 | [`deribit-latency-tester`](https://github.com/bxvtr/deribit-latency-tester) | Latency measurement, tick-aligned timing, failure behavior, exchange proximity |
 | [`deribit-history-client`](https://github.com/bxvtr/deribit-history-client) | API drift, data quality, event time vs. receive time, backtest boundaries |
-| [`timescale-access`](https://github.com/bxvtr/timescale-access) | Time-series ingestion, schema management, duplicates, sequence gaps |
+| [`timescale-access`](https://github.com/bxvtr/timescale-access) | Time-series ingestion, schema management, duplicates, sequence gaps | -->
+
+
+
+
+
+
+
+
+![Repository card header](./assets/repo-cards/header.svg)
+
+[![tradingchassis-ops-lab](./assets/repo-cards/tradingchassis-ops-lab.svg)](https://github.com/TradingChassis/tradingchassis-ops-lab)
+
+<!-- [![infrastructure](./assets/repo-cards/infrastructure.svg)](https://github.com/TradingChassis/infrastructure) -->
+
+<!-- [![deribit-latency-tester](./assets/repo-cards/deribit-latency-tester.svg)](https://github.com/bxvtr/deribit-latency-tester) -->
+
+
+
+
+
+
+
 
 
 
