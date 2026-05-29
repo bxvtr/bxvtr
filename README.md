@@ -69,6 +69,8 @@ as a realistic testbed for hard reliability and production problems.
 <img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
 
 
+<h3 align="center">Up Next</h3>
+
 <p align="center">
   <kbd>
     <font size="4"><strong>Languages</strong></font>
@@ -113,6 +115,52 @@ as a realistic testbed for hard reliability and production problems.
     <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="52" title="Hyprland"/>
     <img src="https://skillicons.dev/icons?i=vscode" height="52" title="VS Code"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="52" title="Cursor"/>
+  </kbd>
+</p>
+
+
+<img src="https://img.spacergif.org/spacer.gif" width="1" height="18"/>
+
+
+<h3 align="center">Up Next</h3>
+
+<p align="center">
+  <sub>Focused learning tracks for reliability, automation, and production systems.</sub>
+</p>
+
+<p align="center">
+  <kbd>
+    <strong>Automation / IaC</strong>
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins" height="46" title="Terraform, Ansible, Jenkins"/>
+    <br/>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <strong>Streaming / Search / Data Systems</strong>
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=kafka,elasticsearch" height="46" title="Kafka, Elasticsearch"/>
+    <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="46" title="Apache Cassandra"/>
+    <br/>
+  </kbd>
+</p>
+
+<p align="center">
+  <kbd>
+    <strong>Observability / Runtime Ops</strong>
+    <br/><br/>
+    <img src="https://cdn.simpleicons.org/datadog/632CA6" height="46" title="Datadog"/>
+    <img src="https://cdn.simpleicons.org/elasticstack/005571" height="46" title="ELK Stack"/>
+    <img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="46" title="eBPF / Linux observability"/>
+    <br/>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <strong>Self-hosted Ops Experiments</strong>
+    <br/><br/>
+    <img src="https://cdn.simpleicons.org/coolify/FFFFFF" height="46" title="Coolify"/>
+    <img src="https://cdn.simpleicons.org/rundeck/F73F39" height="46" title="Rundeck"/>
+    <br/>
   </kbd>
 </p>
 

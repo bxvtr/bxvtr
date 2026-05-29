@@ -1,5 +1,5 @@
-<svg width="760" height="346" viewBox="0 0 760 346" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="760" height="346" rx="16" fill="none"/>
+<svg width="760" height="488" viewBox="0 0 760 488" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="488" rx="16" fill="none"/>
 
   <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
 
@@ -40,10 +40,30 @@
     <g transform="translate(388, 220)">
       <rect width="372" height="126" rx="14" fill="#0F172A"/>
       <rect x="1" y="1" width="370" height="124" rx="13" stroke="#1E293B" stroke-width="1"/>
+      <text x="22" y="32" fill="#58A6FF" font-size="14" font-weight="700">Security-minded Delivery</text>
+      <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">software supply-chain awareness</text>
+      <text x="22" y="81" fill="#CBD5E1" font-size="12" font-weight="500">vault-backed secret handling</text>
+      <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">IaC review, least-privilege defaults</text>
+    </g>
+
+    <!-- Card 5 -->
+    <g transform="translate(0, 362)">
+      <rect width="372" height="126" rx="14" fill="#0F172A"/>
+      <rect x="1" y="1" width="370" height="124" rx="13" stroke="#1E293B" stroke-width="1"/>
       <text x="22" y="32" fill="#58A6FF" font-size="14" font-weight="700">Implementation Loops</text>
       <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">audit &#x279D; implement &#x279D; review &#x279D; verify</text>
       <text x="22" y="81" fill="#CBD5E1" font-size="12" font-weight="500">config-driven changes</text>
       <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">reproducible operating habits</text>
+    </g>
+
+    <!-- Card 6 -->
+    <g transform="translate(388, 362)">
+      <rect width="372" height="126" rx="14" fill="#0F172A"/>
+      <rect x="1" y="1" width="370" height="124" rx="13" stroke="#1E293B" stroke-width="1"/>
+      <text x="22" y="32" fill="#58A6FF" font-size="14" font-weight="700">Operational Guardrails</text>
+      <text x="22" y="60" fill="#CBD5E1" font-size="12" font-weight="500">safe defaults and rollback paths</text>
+      <text x="22" y="81" fill="#CBD5E1" font-size="12" font-weight="500">observability before automation</text>
+      <text x="22" y="102" fill="#CBD5E1" font-size="12" font-weight="500">failure-aware production habits</text>
     </g>
 
   </g>
