@@ -57,6 +57,7 @@ as a realistic testbed for hard reliability and production problems.
 
 
 <br/>
+<br/>
 
 
 <p align="center">
@@ -66,10 +67,6 @@ as a realistic testbed for hard reliability and production problems.
     width="760"
   />
 </p>
-
-
-<br/>
-
 
 <h3 align="center">Current</h3>
 
@@ -120,10 +117,6 @@ as a realistic testbed for hard reliability and production problems.
   </kbd>
 </p>
 
-
-<br/>
-
-
 <h3 align="center">Up Next</h3>
 
 <p align="center">
@@ -161,10 +154,6 @@ as a realistic testbed for hard reliability and production problems.
     <br/>
   </kbd>
 </p>
-
-
-<br/>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:0f172a&height=110&section=footer" />
 
