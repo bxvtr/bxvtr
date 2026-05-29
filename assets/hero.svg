@@ -1,0 +1,33 @@
+<svg width="760" height="56" viewBox="0 0 760 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B2447"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0.345
+                0 0 0 0 0.651
+                0 0 0 0 1
+                0 0 0 0.22 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect width="760" height="56" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="759" height="55" rx="11.5" stroke="#1E293B"/>
+
+  <circle cx="650" cy="8" r="60" fill="#58A6FF" opacity="0.12" filter="url(#softGlow)"/>
+  <circle cx="110" cy="56" r="70" fill="#58A6FF" opacity="0.08"/>
+
+  <text x="380" y="36"
+        text-anchor="middle"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="24"
+        font-weight="700"
+        fill="#F8FAFC">
+    Hi, I’m
+  </text>
+</svg>
