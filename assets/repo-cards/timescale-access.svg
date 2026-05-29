@@ -10,9 +10,9 @@
         font-weight="700"
         fill="#58A6FF">timescale-access</text>
 
-  <line x1="268" y1="13" x2="268" y2="39" stroke="#1E293B"/>
+  <line x1="240" y1="13" x2="240" y2="39" stroke="#1E293B"/>
 
-  <text x="292" y="32"
+  <text x="256" y="32"
         font-family="JetBrains Mono, Consolas, monospace"
         font-size="12.5"
         fill="#CBD5E1">Time-series ingestion · schemas · duplicates · gaps</text>
