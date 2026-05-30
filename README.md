@@ -72,7 +72,7 @@ as a realistic testbed for hard reliability and production problems.
 <br/>
 
 
-<img width="760" alt="Hands-on Stack" src="./assets/headings/current.svg" />
+<img width="760" alt="Hands-on Stack" src="./assets/headings/hands-on-stack.svg" />
 
 <p align="center">
   <kbd>
@@ -109,7 +109,7 @@ as a realistic testbed for hard reliability and production problems.
     <img src="https://skillicons.dev/icons?i=git,github,githubactions" height="52" title="Git, GitHub, GitHub Actions"/>
     <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="52" title="Argo CD"/>
     <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="52" title="MLflow"/>
-    <img src="https://cdn.simpleicons.org/helm/0F1689" height="52" title="Helm"/>
+    <img src="https://cdn.simpleicons.org/helm/58A6FF" height="52" title="Helm"/>
     <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32" title="Kustomize"/>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,7 +127,7 @@ as a realistic testbed for hard reliability and production problems.
 <br/>
 
 
-<img width="760" alt="Learning Roadmap" src="./assets/headings/up-next.svg" />
+<img width="760" alt="Learning Roadmap" src="./assets/headings/learning-roadmap.svg" />
 
 <p align="center">
   <kbd>
