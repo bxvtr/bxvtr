@@ -45,7 +45,7 @@
 - 📡 [**Deribit History Client**](https://github.com/bxvtr/deribit-history-client) - Python client for historical market data with clean request abstractions and optional API-shape drift detection
 - ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester) - Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
 
-### Archived / Legacy Work
+### Legacy Work
 
 - ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core) - Historical deterministic event-driven trading decision engine with shared backtest/live semantics
 - 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime) - Historical runtime orchestration layer for reproducible backtesting environments
