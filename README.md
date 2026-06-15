@@ -1,170 +1,92 @@
-<div align="center">
-
-<img width="760" alt="Hi, I’m" src="./assets/hero.svg" />
-
-
-<br/>
-
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=a+self-directed+Reliability+%2F+Production+Engineering+learner;turning+domain+complexity+into+operational+workflows;focused+on+production+systems%2C+observability%2C+and+automation"
-/>
-
-In my projects I use trading and market-data infrastructure  
-as a realistic testbed for hard reliability and production problems.  
+<div>
+  <a href="#">
+    <img width="100%" src="./assets/header.svg" alt="Reliability / Production Engineering header" />
+  </a>
+</div>
 
 
-<br/>
+## Skills
+
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=python,rust,bash" height="48" title="Python, Rust, Bash" alt="Python, Rust, Bash" />
+
+#### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" height="48" title="Linux, Docker, Kubernetes" alt="Linux, Docker, Kubernetes" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="48" title="Docker Compose" alt="Docker Compose" />
+<img src="https://img.shields.io/badge/OCI-0B2447?style=for-the-badge&logo=icloud&logoColor=white" height="48" title="Oracle Cloud Infrastructure" alt="Oracle Cloud Infrastructure" />
+
+#### Observability
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="48" title="Prometheus, Grafana" alt="Prometheus, Grafana" />
+
+#### Data / Storage
+
+<img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="48" title="TimescaleDB" alt="TimescaleDB" />
+<img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="48" title="MinIO / S3-compatible object storage" alt="MinIO" />
+<img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="48" title="SQLAlchemy" alt="SQLAlchemy" />
+
+#### GitOps / Delivery
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions" height="48" title="Git, GitHub, GitHub Actions" alt="Git, GitHub, GitHub Actions" />
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="Argo CD / Argo Workflows" alt="Argo" />
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow" alt="MLflow" />
+<img src="https://cdn.simpleicons.org/helm/58A6FF" height="48" title="Helm" alt="Helm" />
+<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="48" title="Kustomize" alt="Kustomize" />
+
+#### Testing / Documentation
+
+<img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="48" title="pytest" alt="pytest" />
+<img src="https://cdn.simpleicons.org/ruff/D7FF64" height="48" title="Ruff" alt="Ruff" />
+<img src="https://cdn.simpleicons.org/sphinx/000000" height="48" title="Sphinx" alt="Sphinx" />
+<img src="https://cdn.simpleicons.org/materialformkdocs/526CFE" height="48" title="MkDocs" alt="MkDocs" />
+
+#### Workspace
+
+<img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue" alt="Fedora Atomic Silverblue" />
+<img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland" alt="Hyprland" />
+<img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor" alt="Cursor" />
 
 
-<img width="760" alt="Repository card header" src="./assets/repo-cards/header.svg" />
+## Projects
 
-<a href="https://github.com/TradingChassis/tradingchassis-ops-lab">
-  <img width="760" alt="tradingchassis-ops-lab" src="./assets/repo-cards/tradingchassis-ops-lab.svg" />
-</a>
+- 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab) - Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
+- ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes infrastructure on OCI with MicroK8s, Argo CD, MLflow, observability, and secrets management
+- 🔐 [**Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets) - Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
+- 📈 [**timescale-access**](https://github.com/bxvtr/timescale-access) - Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
+- 📡 [**deribit-history-client**](https://github.com/bxvtr/deribit-history-client) - Python client for historical market data with clean request abstractions and optional API-shape drift detection
+- ⏱️ [**deribit-latency-tester**](https://github.com/bxvtr/deribit-latency-tester) - Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
 
-<a href="https://github.com/TradingChassis/infrastructure">
-  <img width="760" alt="infrastructure" src="./assets/repo-cards/infrastructure.svg" />
-</a>
+### Archived / Legacy Work
 
-<a href="https://github.com/TradingChassis/infrastructure-secrets">
-  <img width="760" alt="infrastructure-secrets" src="./assets/repo-cards/infrastructure-secrets.svg" />
-</a>
-
-<a href="https://github.com/TradingChassis/core">
-  <img width="760" alt="core" src="./assets/repo-cards/core.svg" />
-</a>
-
-<a href="https://github.com/TradingChassis/core-runtime">
-  <img width="760" alt="core-runtime" src="./assets/repo-cards/core-runtime.svg" />
-</a>
-
-<a href="https://github.com/TradingChassis/docs">
-  <img width="760" alt="docs" src="./assets/repo-cards/docs.svg" />
-</a>
-
-<a href="https://github.com/bxvtr/deribit-latency-tester">
-  <img width="760" alt="deribit-latency-tester" src="./assets/repo-cards/deribit-latency-tester.svg" />
-</a>
-
-<a href="https://github.com/bxvtr/deribit-history-client">
-  <img width="760" alt="deribit-history-client" src="./assets/repo-cards/deribit-history-client.svg" />
-</a>
-
-<a href="https://github.com/bxvtr/timescale-access">
-  <img width="760" alt="timescale-access" src="./assets/repo-cards/timescale-access.svg" />
-</a>
+- ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core) - Historical deterministic event-driven trading decision engine with shared backtest/live semantics
+- 🚦 [**Core Runtime**](https://github.com/TradingChassis/core-runtime) - Historical runtime orchestration layer for reproducible backtesting environments
+- 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs) - Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
 
 
-<br/>
-<br/>
+## Operating Style
+
+- 🎯 **Scoped execution** - Small, reviewable changes with clear boundaries
+- 🤖 **AI-assisted, human-reviewed** - ChatGPT and Cursor support the workflow; tests, diffs, and verification stay owned by me
+- 🐧 **Linux-first workflows** - Fedora Atomic, Hyprland, terminal-driven tooling, and local feedback loops
+- 🔐 **Security-minded operations** - Secret handling, least-privilege defaults, IaC review, and supply-chain awareness
+- 🛡️ **Failure-aware delivery** - Observable automation, safe defaults, rollback paths, and reproducible operating habits
 
 
-<p align="center">
-  <img
-    src="./assets/operating-style.svg"
-    alt="Operating style: scoped work, AI-assisted development, Linux-first environment"
-    width="760"
-  />
-</p>
+## Learning Roadmap
+
+- 🧱 **Infrastructure as Code** - Learning Terraform and Ansible to understand repeatable provisioning and configuration management
+- 🚚 **CI/CD systems** - Exploring Jenkins to compare pipeline models beyond GitHub Actions
+- 🌊 **Streaming systems** - Studying Kafka as a foundation for event-driven data and infrastructure workflows
+- 🔎 **Operational search** - Building familiarity with Elasticsearch / ELK concepts for logs, search, and incident analysis
+- 🧬 **Linux observability** - Exploring eBPF concepts for deeper runtime and system-level visibility
 
 
-<br/>
-
-
-<img width="760" alt="Hands-on Stack" src="./assets/headings/hands-on-stack.svg" />
-
-<p align="center">
-  <kbd>
-    <font size="4"><strong>Languages</strong></font>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=python,rust,bash" height="52" title="Python, Rust, Bash"/>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <font size="4"><strong>Infrastructure</strong></font>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" height="52" title="Linux, Docker, Kubernetes"/>
-  </kbd>
-</p>
-
-<p align="center">
-  <kbd>
-    <font size="4"><strong>Observability</strong></font>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="52" title="Prometheus, Grafana"/>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <font size="4"><strong>Data / Storage</strong></font>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" height="52" title="PostgreSQL"/><img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="52" title="TimescaleDB"/><img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="52" title="MinIO / S3-compatible object storage"/>
-  </kbd>
-</p>
-
-<p align="center">
-  <kbd>
-    <font size="4"><strong>GitOps / Delivery</strong></font>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions" height="52" title="Git, GitHub, GitHub Actions"/>
-    <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="52" title="Argo CD"/>
-    <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="52" title="MLflow"/>
-    <img src="https://cdn.simpleicons.org/helm/58A6FF" height="52" title="Helm"/>
-    <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32" title="Kustomize"/>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <font size="4"><strong>Workspace</strong></font>
-    <br/><br/>
-    <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="52" title="Fedora Atomic Silverblue"/>
-    <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="52" title="Hyprland"/>
-    <img src="https://skillicons.dev/icons?i=vscode" height="52" title="VS Code"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="52" title="Cursor"/>
-  </kbd>
-</p>
-
-
-<br/>
-
-
-<img width="760" alt="Learning Roadmap" src="./assets/headings/learning-roadmap.svg" />
-
-<p align="center">
-  <kbd>
-    <strong>Automation / IaC</strong>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins" height="46" title="Terraform, Ansible, Jenkins"/>
-    <br/>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <strong>Streaming / Search / Data Systems</strong>
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=kafka,elasticsearch" height="46" title="Kafka, Elasticsearch"/>
-    <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="46" title="Apache Cassandra"/>
-    <br/>
-  </kbd>
-</p>
-
-<p align="center">
-  <kbd>
-    <strong>Observability / Runtime Ops</strong>
-    <br/><br/>
-    <img src="https://cdn.simpleicons.org/datadog/632CA6" height="46" title="Datadog"/>
-    <img src="https://cdn.simpleicons.org/elasticstack/005571" height="46" title="ELK Stack"/>
-    <img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="46" title="eBPF / Linux observability"/>
-    <br/>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <strong>Self-hosted Ops Experiments</strong>
-    <br/><br/>
-    <img src="https://cdn.simpleicons.org/coolify/FFFFFF" height="46" title="Coolify"/>
-    <img src="https://cdn.simpleicons.org/rundeck/F73F39" height="46" title="Rundeck"/>
-    <br/>
-  </kbd>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:0f172a&height=110&section=footer" />
-
+<div>
+  <a href="#">
+    <img width="100%" src="./assets/footer.svg"/>
+  </a>
 </div>
