@@ -1,6 +1,6 @@
 <div>
   <a href="#">
-    <img width="100%" src="./assets/header.svg" alt="Reliability / Production Engineering header" />
+    <img width="100%" src="./assets/header.svg" alt="Reliability & Production Engineering header" />
   </a>
 </div>
 
