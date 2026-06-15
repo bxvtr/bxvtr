@@ -39,16 +39,16 @@
 ## Projects
 
 - 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab) - Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
-- ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes infrastructure on OCI with MicroK8s, Argo CD, MLflow, observability, and secrets management
-- 🔐 [**Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets) - Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
-- 📈 [**timescale-access**](https://github.com/bxvtr/timescale-access) - Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
-- 📡 [**deribit-history-client**](https://github.com/bxvtr/deribit-history-client) - Python client for historical market data with clean request abstractions and optional API-shape drift detection
-- ⏱️ [**deribit-latency-tester**](https://github.com/bxvtr/deribit-latency-tester) - Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
+- ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and secrets management
+- 🔐 [**TradingChassis Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets) - Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
+- 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access) - Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
+- 📡 [**Deribit History Client**](https://github.com/bxvtr/deribit-history-client) - Python client for historical market data with clean request abstractions and optional API-shape drift detection
+- ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester) - Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
 
 ### Archived / Legacy Work
 
 - ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core) - Historical deterministic event-driven trading decision engine with shared backtest/live semantics
-- 🚦 [**Core Runtime**](https://github.com/TradingChassis/core-runtime) - Historical runtime orchestration layer for reproducible backtesting environments
+- 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime) - Historical runtime orchestration layer for reproducible backtesting environments
 - 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs) - Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
 
 
