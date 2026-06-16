@@ -58,11 +58,11 @@
 - 🤖 **AI-assisted, human-reviewed** - ChatGPT and Cursor support the workflow; tests, diffs, and verification stay owned by me
 - 🐧 **Linux-first workflows** - Fedora Atomic, Hyprland, terminal-driven tooling, and local feedback loops
 - 🔐 **Security-minded operations** - Secret handling, least-privilege defaults, IaC review, and supply-chain awareness
-- 🛡️ **Failure-aware delivery** - Observable automation, safe defaults, rollback paths, and reproducible operating habits
 
 
 ## Learning Roadmap
 
+- 🛡️ **Failure-aware delivery** - Observable automation, safe defaults, rollback paths, and reproducible operating habits
 - 🧱 **Infrastructure as Code** - Learning Terraform and Ansible to understand repeatable provisioning and configuration management
 - 🚚 **CI/CD systems** - Exploring Jenkins to compare pipeline models beyond GitHub Actions
 - 🌊 **Streaming systems** - Studying Kafka as a foundation for event-driven data and infrastructure workflows
