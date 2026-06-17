@@ -36,14 +36,11 @@
 <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue" alt="Fedora Atomic Silverblue" /> <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland" alt="Hyprland" /> <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" alt="VS Code" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor" alt="Cursor" />
 
 
-### Active Projects
+### Work
 
 - 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab) - Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
 - ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and secrets management
 - 🔐 [**TradingChassis Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets) - Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
-
-### Legacy Work
-
 - ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core) - Historical deterministic event-driven trading decision engine with shared backtest/live semantics
 - 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime) - Historical runtime orchestration layer for reproducible backtesting environments
 - 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs) - Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
