@@ -5,7 +5,7 @@
 </div>
 
 
-## Skills
+### Skills
 
 #### Languages
 
@@ -36,7 +36,7 @@
 <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" title="Fedora Atomic Silverblue" alt="Fedora Atomic Silverblue" /> <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland" alt="Hyprland" /> <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" alt="VS Code" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" title="Cursor" alt="Cursor" />
 
 
-## Projects
+### Active Projects
 
 - 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab) - Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
 - ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and secrets management
@@ -52,7 +52,7 @@
 - ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester) - Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
 
 
-## Operating Style
+### Operating Style
 
 - 🎯 **Scoped execution** - Small, reviewable changes with clear boundaries
 - 🤖 **AI-assisted, human-reviewed** - ChatGPT and Cursor support the workflow; tests, diffs, and verification stay owned by me
@@ -60,7 +60,7 @@
 - 🔐 **Security-minded operations** - Secret handling, least-privilege defaults, IaC review, and supply-chain awareness
 
 
-## Learning Roadmap
+### Learning Roadmap
 
 - 🛡️ **Failure-aware delivery** - Observable automation, safe defaults, rollback paths, and reproducible operating habits
 - 🧱 **Infrastructure as Code** - Learning Terraform and Ansible to understand repeatable provisioning and configuration management
