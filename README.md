@@ -63,8 +63,8 @@
 ### Learning Roadmap
 
 - 🛡️ **Failure-aware delivery** - Observable automation, safe defaults, rollback paths, and reproducible operating habits
-- 🧱 **Infrastructure as Code** - Learning Terraform and Ansible to understand repeatable provisioning and configuration management
-- 🚚 **CI/CD systems** - Exploring Jenkins to compare pipeline models beyond GitHub Actions
+- 🧱 **IaC beyond pure YAML** - Learning Terraform and Ansible to understand repeatable provisioning and configuration management
+- 🚚 **CI/CD systems** - Exploring Jenkins to compare pipeline models other than GitHub Actions
 - 🌊 **Streaming systems** - Studying Kafka as a foundation for event-driven data and infrastructure workflows
 - 🔎 **Operational search** - Building familiarity with Elasticsearch / ELK concepts for logs, search, and incident analysis
 - 🧬 **Linux observability** - Exploring eBPF concepts for deeper runtime and system-level visibility
