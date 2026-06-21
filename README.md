@@ -38,6 +38,9 @@
 
 ### Work
 
+In my work I focus on hard reliability and production problems.
+In some I use trading and market-data infrastructure as a realistic testbed.
+
 - 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab) - Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
 - ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and Secrets management
 - 🔐 [**TradingChassis Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets) - Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes Secret delivery
