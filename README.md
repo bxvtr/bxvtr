@@ -199,8 +199,8 @@
 
 #### Data Engineering & Developer Tools
 
-- 🌐 [**Fedora AirVPN Kill Switch**](https://github.com/bxvtr/fedora-airvpn-killswitch)
-  Reproducible Ansible and Bash tooling for configuring AirVPN WireGuard connections on Fedora with NetworkManager, a fail-closed firewalld kill switch, verification tooling, and security-focused defaults
+- 🌐 [**Fedora AirVPN Kill Switch**](https://github.com/bxvtr/fedora-airvpn-killswitch)  
+  Ansible and Bash automation for AirVPN WireGuard on Fedora with NetworkManager and fail-closed firewall protection
 
 - 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access)  
   Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
