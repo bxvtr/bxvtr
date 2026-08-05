@@ -173,91 +173,63 @@
 />
 
 
-
-
-
-
-
-
-
-
-
 ### Selected Work
 
 #### Platform Engineering & Operations
 
-* ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure)
+- ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure)  
   GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and secrets management
 
-* 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab)
+- 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab)  
   Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
 
-* 🔐 [**TradingChassis Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets)
+- 🔐 [**Fork: oci-secrets-store-csi-driver-provider**](https://github.com/TradingChassis/oci-secrets-store-csi-driver-provider)  
   Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
 
 #### Systems & Runtime
 
-* ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core)
-  Historical deterministic event-driven trading decision engine with shared backtest/live semantics
+- ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core)  
+  Legacy deterministic event-driven trading decision engine with shared backtest/live semantics
 
-* 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime)
-  Historical runtime orchestration layer for reproducible backtesting environments
+- 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime)  
+  Legacy runtime orchestration layer for reproducible backtesting environments
 
-* 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs)
+- 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs)  
   Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
 
 #### Data Engineering & Developer Tools
 
-* 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access)
+- 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access)  
   Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
 
-* 📡 [**Deribit History Client**](https://github.com/bxvtr/deribit-history-client)
+- 📡 [**Deribit History Client**](https://github.com/bxvtr/deribit-history-client)  
   Python client for historical market data with clean request abstractions and optional API-shape drift detection
 
-* ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester)
+- ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester)  
   Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Work
-
-- 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab) - Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
-- ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure) - GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and secrets management
-- 🔐 [**TradingChassis Infrastructure Secrets**](https://github.com/TradingChassis/infrastructure-secrets) - Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
-- ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core) - Historical deterministic event-driven trading decision engine with shared backtest/live semantics
-- 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime) - Historical runtime orchestration layer for reproducible backtesting environments
-- 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs) - Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
-- 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access) - Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
-- 📡 [**Deribit History Client**](https://github.com/bxvtr/deribit-history-client) - Python client for historical market data with clean request abstractions and optional API-shape drift detection
-- ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester) - Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
 
 
 ### Open-source contributions
 
-[**Overview**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
+🔎 [**View all external pull requests**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
 
-- 📦 [**oci-prometheus-sd-proxy Helm Chart**](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/80) - Built the initial Kubernetes Helm chart MVP with configurable deployment, external secret integration, security defaults, health probes, and usage docs; foundation later evolved into the [production-ready Helm chart](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/88)
+- 📦 [**oci-prometheus-sd-proxy Helm Chart**](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/80)  
+  Built the initial Kubernetes Helm chart MVP with configurable deployment, external secret integration, security defaults, health probes, and usage docs; foundation later evolved into the [production-ready Helm chart](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/88)
 
 
 ### Operating Style
 
-- 🎯 **Scoped** - Small, reviewable changes with clear boundaries
-- 🤖 **AI-assisted, human-reviewed** - ChatGPT and Cursor support the workflow; tests, diffs, verification stay human owned
-- 🐧 **Linux-first** - Fedora Silverblue, Hyprland; terminal-driven tooling, local feedback loops
-- 🔐 **Security-minded** - Secret handling, least-privilege defaults, supply-chain awareness
+- 🎯 **Scoped**  
+  Small, reviewable changes with clear boundaries
+
+- 🤖 **AI-assisted, human-reviewed**  
+  ChatGPT and Cursor support the workflow; tests, diffs, and verification stay human-owned
+
+- 🐧 **Linux-first**  
+  Fedora Silverblue, Hyprland; terminal-driven tooling and local feedback loops
+
+- 🔐 **Security-minded**  
+  Secret handling, least-privilege defaults, and supply-chain awareness
 
 
 <div>
