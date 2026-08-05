@@ -223,13 +223,10 @@
   Small, reviewable changes with clear boundaries
 
 - 🤖 **AI-assisted, human-reviewed**  
-  ChatGPT and Cursor support the workflow; tests, diffs, and verification stay human-owned
-
-- 🐧 **Linux-first**  
-  Fedora Silverblue, Hyprland; terminal-driven tooling and local feedback loops
+  ChatGPT / Cursor support; human-owned tests, diffs, verifications
 
 - 🔐 **Security-minded**  
-  Secret handling, least-privilege defaults, and supply-chain awareness
+  Secret handling, least-privilege defaults, supply-chain awareness
 
 
 <div>
