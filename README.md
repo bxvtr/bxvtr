@@ -1,13 +1,11 @@
 <div>
   <a href="#">
-    <img width="100%" src="./assets/header.svg" alt="header" />
+    <img width="100%" src="./assets/header.svg"/>
   </a>
 </div>
 
 ### I am continuously growing and developing skills towards reliability, platform, and security engineering. Far I’ve gained experience working with:
 
-
-### Skills
 
 #### Languages
 
@@ -53,36 +51,126 @@
 
 #### Observability
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="48" title="Prometheus, Grafana" alt="Prometheus, Grafana" />
+<img
+src="https://skillicons.dev/icons?i=prometheus,grafana"
+height="48"
+title="Prometheus, Grafana"
+alt="Prometheus, Grafana"
+/>
 
 #### Data / Storage
 
-<img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />
-<img src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48" height="48" title="TimescaleDB" alt="TimescaleDB" />
-<img src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48" height="48" title="MinIO / S3-compatible object storage" alt="MinIO" />
-<img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="48" title="SQLAlchemy" alt="SQLAlchemy" />
+<img
+src="https://skillicons.dev/icons?i=postgres"
+height="48"
+title="PostgreSQL"
+alt="PostgreSQL"
+/>
+<img
+src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48"
+height="48"
+title="TimescaleDB"
+alt="TimescaleDB"
+/>
+<img
+src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48"
+height="48"
+title="MinIO / S3-compatible object storage"
+alt="MinIO"
+/>
+<img
+src="https://cdn.simpleicons.org/sqlalchemy/D71F00"
+height="48"
+title="SQLAlchemy"
+alt="SQLAlchemy"
+/>
 
 #### GitOps / Delivery
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions" height="48" title="Git, GitHub, GitHub Actions" alt="Git, GitHub, GitHub Actions" />
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" title="Argo CD / Argo Workflows" alt="Argo" />
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow" alt="MLflow" />
-<img src="https://cdn.simpleicons.org/helm/58A6FF" height="48" title="Helm" alt="Helm" />
-<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32" title="Kustomize" alt="Kustomize" />
+<img
+src="https://skillicons.dev/icons?i=git,github,githubactions"
+height="48"
+title="Git, GitHub, GitHub Actions"
+alt="Git, GitHub, GitHub Actions"
+/>
+<img
+src="https://cdn.simpleicons.org/argo/EF7B4D"
+height="48"
+title="Argo CD / Argo Workflows"
+alt="Argo"
+/>
+<img
+src="https://cdn.simpleicons.org/mlflow/0194E2"
+height="48"
+title="MLflow"
+alt="MLflow"
+/>
+<img
+src="https://cdn.simpleicons.org/helm/58A6FF"
+height="48"
+title="Helm"
+alt="Helm"
+/>
+<img
+src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+height="32"
+title="Kustomize"
+alt="Kustomize"
+/>
 
 #### Testing / Documentation
 
-<img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="48" title="pytest" alt="pytest" />
-<img src="https://cdn.simpleicons.org/ruff/D7FF64" height="48" title="Ruff" alt="Ruff" />
-<img src="https://cdn.simpleicons.org/sphinx/B6BEC9" height="48" title="Sphinx" alt="Sphinx" />
-<img src="https://cdn.simpleicons.org/materialformkdocs/526CFE" height="48" title="MkDocs" alt="MkDocs" />
+<img
+src="https://cdn.simpleicons.org/pytest/0A9EDC"
+height="48"
+title="pytest"
+alt="pytest"
+/>
+<img
+src="https://cdn.simpleicons.org/ruff/D7FF64"
+height="48"
+title="Ruff"
+alt="Ruff"
+/>
+<img
+src="https://cdn.simpleicons.org/sphinx/B6BEC9"
+height="48"
+title="Sphinx"
+alt="Sphinx"
+/>
+<img
+src="https://cdn.simpleicons.org/materialformkdocs/526CFE"
+height="48"
+title="MkDocs"
+alt="MkDocs"
+/>
 
 #### Workspace
 
-<img src="./assets/silverblue-logo.svg" height="48" title="Fedora Silverblue" alt="Fedora Silverblue" />
-<img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" title="Hyprland" alt="Hyprland" />
-<img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" alt="VS Code" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" height="48" title="Cursor" alt="Cursor" />
+<img
+src="./assets/silverblue-logo.svg"
+height="48"
+title="Fedora Silverblue"
+alt="Fedora Silverblue"
+/>
+<img
+src="https://cdn.simpleicons.org/hyprland/58E1FF"
+height="48"
+title="Hyprland"
+alt="Hyprland"
+/>
+<img
+src="https://skillicons.dev/icons?i=vscode"
+height="48"
+title="VS Code"
+alt="VS Code"
+/>
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark"
+height="48"
+title="Cursor"
+alt="Cursor"
+/>
 
 
 ### Work
