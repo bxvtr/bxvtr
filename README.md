@@ -184,7 +184,7 @@
   Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
 
 - 🔐 [**Fork: oci-secrets-store-csi-driver-provider**](https://github.com/TradingChassis/oci-secrets-store-csi-driver-provider)  
-  Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery
+  Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery; used by [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure)
 
 #### Systems & Runtime
 
@@ -198,6 +198,9 @@
   Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
 
 #### Data Engineering & Developer Tools
+
+- 🌐 [**Fedora AirVPN Kill Switch**](https://github.com/bxvtr/fedora-airvpn-killswitch)
+  Reproducible Ansible and Bash tooling for configuring AirVPN WireGuard connections on Fedora with NetworkManager, a fail-closed firewalld kill switch, verification tooling, and security-focused defaults
 
 - 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access)  
   Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
@@ -223,9 +226,9 @@
   Small, reviewable changes with clear boundaries
 
 - 🤖 **AI-assisted, human-reviewed**  
-  ChatGPT / Cursor support; human-owned tests, diffs, verifications
+  ChatGPT & Cursor support; human-owned tests, diffs, verifications
 
-- 🔐 **Security-minded**  
+- 🛡️ **Security-minded**  
   Secret handling, least-privilege defaults, supply-chain awareness
 
 
