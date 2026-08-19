@@ -3,8 +3,9 @@
 Evidence-based engineering and learning record for
 [`bxvtr/fedora-airvpn-killswitch`](https://github.com/bxvtr/fedora-airvpn-killswitch).
 
-This file is a source of truth for later GitHub-profile, CV, LinkedIn, and
-interview use. It is not a CV, README rewrite, or marketing summary.
+This file is the canonical portfolio analysis record for this project. The
+repository remains the technical source of truth for implementation details.
+This file is not a CV, README rewrite, or marketing summary.
 
 Repository analyzed: local clone at tag **`v0.1.0`** / `main`
 (`2d1a5d9`, 2026-08-04). License: MIT, copyright `bxvtr` /
@@ -94,10 +95,12 @@ Evidence:
 ## What I Built
 
 Attribution is strong: a two-day single-author sequence (`b98f69a` 2026-08-02
-through merge `2d1a5d9` 2026-08-04), then a signed tag `v0.1.0`. That supports
-**designed / authored / implemented / tested / documented / live-validated**
-for this tree. It does not mean NetworkManager, firewalld, WireGuard, or
-Ansible were written here.
+through merge `2d1a5d9` 2026-08-04), then a signed tag `v0.1.0`. This provides
+strong evidence that I was the primary author and maintainer of the repository's
+Ansible, Bash tooling, tests, and documentation. Live validation is narrower:
+only the scenarios explicitly covered by the documented Fedora Silverblue 43
+VM run should be described as live-validated. This does not mean NetworkManager,
+firewalld, WireGuard, or Ansible were written here.
 
 ### Authored in this repo — Implemented
 
@@ -907,8 +910,9 @@ Project-specific, from this tree:
   Live-found: second uninstall needed the role copy from git.
 - **Immutable OS packaging is a control plane.** Atomic hosts made
   “just dnf install” the wrong abstraction.
-- **Unsafe operations need a phrase, not a flag default.** Disable
-  kill-switch and uninstall both require explicit human text/vars.
+- **Unsafe operations should require explicit operator intent.** Kill-switch
+  disable requires a confirmation phrase (or explicit `--force`), while uninstall
+  requires an explicit confirmation variable; neither is an implicit default path.
 
 ---
 
