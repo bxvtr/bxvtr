@@ -3,8 +3,9 @@
 Evidence-based engineering and learning record for
 [`TradingChassis/tradingchassis-ops-lab`](https://github.com/TradingChassis/tradingchassis-ops-lab).
 
-This file is a source of truth for later GitHub-profile, CV, LinkedIn, and
-interview use. It is not a CV, README rewrite, or marketing summary.
+This file is the canonical portfolio analysis record for this project. The
+repository remains the technical source of truth for implementation details.
+This file is not a CV, README rewrite, or marketing summary.
 
 Repository analyzed: local clone at `0.8.0` / `main` (`98a95d7`, 2026-06-21).
 Package version: `0.8.0` (`pyproject.toml`, `src/tradingchassis_ops_lab/__init__.py`).
@@ -47,8 +48,9 @@ What it is:
 - A local lab for **operational evidence** of backtest and paper *lifecycles*.
 - An **artifact-first** interface: later commands read JSON/JSONL/Markdown
   on disk rather than inspecting a live trading process.
-- A bounded demo of SRE-style ideas (reconciliation, kill switch, drills,
-  dashboards) without claiming production trading safety.
+- A bounded lab implementation of reliability/operations patterns such as
+  reconciliation, kill-switch gating, failure drills, and artifact-backed
+  dashboards, without claiming production trading safety.
 
 What it is not (implemented tree agrees with README/scope/limitations):
 
@@ -75,9 +77,12 @@ Evidence:
 
 Attribution in this repository is strong: Git history is a single-author
 sequence from `a1b0bd2` (2026-05-20) through `98a95d7` (2026-06-21), tags
-`0.1.0`–`0.8.0`. That supports **authored / designed / implemented / tested /
-documented** for the Python package and ops configs. It does not mean
-NautilusTrader, Prometheus, or Grafana were written here.
+`0.1.0`–`0.8.0`. This provides strong evidence that I was the primary author
+and maintainer of the repository's Python package, operational tooling, and
+configuration. Specific files may still contain adapted, generated, or
+dependency-derived content, so attribution is evaluated at the relevant
+component level. It does not mean NautilusTrader, Prometheus, or Grafana
+were written here.
 
 ### Authored in this repo — Implemented
 
@@ -842,8 +847,8 @@ Implemented limits to keep visible:
 - Kubernetes/GitOps deferred.
 
 **Stale vs implementation:** `RunSpec.connectivity_readiness` class
-docstring understates 0.5.0 env evaluation. `ansible`-style drift is
-limited to that comment; README/CHANGELOG match the evaluator.
+docstring understates the 0.5.0 environment-name evaluation. Documentation
+drift appears limited to that comment; README/CHANGELOG match the evaluator.
 
 ---
 
