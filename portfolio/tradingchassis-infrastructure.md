@@ -3,8 +3,7 @@
 Evidence-based engineering and learning record for
 [`TradingChassis/infrastructure`](https://github.com/TradingChassis/infrastructure).
 
-This file is a source of truth for later GitHub-profile, CV, LinkedIn, and
-interview use. It is not a CV, README rewrite, or marketing summary.
+This file is the canonical portfolio analysis record for this project. The repository remains the technical source of truth for implementation details. This file is not a CV, README rewrite, or marketing summary.
 
 Repository analyzed: local clone of `TradingChassis/infrastructure` at
 tag/release `v0.2.0` / `main` (`e41bf13`, 2026-08-18).
@@ -90,9 +89,11 @@ Evidence:
 
 Attribution in this repository is strong: Git history is a single-author
 sequence from the 2026-02-15 first commit through the 2026-08-18 `0.2.0`
-release (`#1`–`#77`). That supports **authored / implemented / configured /
-automated / documented** for the files in this repo. It does not mean every
-upstream chart, image, or CSI provider was written here.
+release (`#1`–`#77`). This provides strong evidence that I was the primary
+author and maintainer of this repository's implementation and evolution.
+Specific files may still contain adapted, generated, or upstream-derived
+configuration, so attribution is evaluated at the relevant component level.
+It does not mean every upstream chart, image, or CSI provider was written here.
 
 ### Version 2 (current) — Implemented
 
@@ -548,8 +549,9 @@ Argo CD    → StorageClass tradingchassis-scratch (no-provisioner, Retain)
 Kubernetes accounting: `70Gi + 70Gi = 140Gi` against 150 OCI-GB, headroom
 for filesystem overhead. PV capacity is **not** a quota.
 
-Fail-closed `hostPath.type: Directory` — missing subdirs after a bad remount
-refuse the volume.
+`hostPath.type: Directory` adds a storage-safety check: missing subdirectories
+after a bad remount cause the volume mount to fail instead of silently creating
+unexpected paths.
 
 PostgreSQL stays on `microk8s-hostpath` (boot disk). That is an explicit
 non-goal of the scratch contract, checked in CI.
@@ -808,7 +810,7 @@ Concrete reliability work in this repo (not generic SRE slogans):
 | Convergence waits | Bounded Argo/pod/CSI/namespace waits; Degraded is WAIT not instant fail during first sync (`#71`, `#72`) |
 | Ownership races | Calico UFW left to MicroK8s; SPC Git vs Ansible exclusive ownership |
 | CI vs live | CONTRIBUTING and runbook: green Actions ≠ live rebuild |
-| Debugging from production-like failures | Device path, CIDR validation, PV encryption create arg, Cloud Shell auth, FORWARD/INPUT nft, Helm timeout, pip path, Vault OCID double-dot, SSA CRDs, system pip/wheel |
+| Debugging from live infrastructure failures | Device path, CIDR validation, PV encryption create arg, Cloud Shell auth, FORWARD/INPUT nft, Helm timeout, pip path, Vault OCID double-dot, SSA CRDs, system pip/wheel |
 
 This is the strongest SRE-adjacent evidence in the repository: a series of
 live defects, each converted into a fail-closed contract plus a static
@@ -1072,7 +1074,9 @@ Implemented limits to keep visible:
 - This analysis did not re-execute OCI apply/destroy; live-proven status is
   a repository document claim from August 2026.
 
-Defensible experience statements (after this evidence, not as CV copy):
+### Derived Defensible Experience Statements
+
+These are interpretations derived from the evidence above, not raw repository facts or final CV copy:
 
 - Designed and implemented a Terraform → Ansible → Argo CD ownership split
   for a single-node OCI research cluster.
