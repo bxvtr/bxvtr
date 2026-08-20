@@ -12,16 +12,29 @@ Recent work includes an OCI/MicroK8s platform, operational tooling for backtest 
 ## Engineering Focus
 
 **Infrastructure & Reliability**  
-Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm  
+Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm, Kustomize
+
 **Operations & Observability**  
-Prometheus, Grafana, reconciliation, failure drills, artifact-backed operational evidence  
+Prometheus, Grafana, reconciliation, failure drills, artifact-backed operational evidence
+
 **Systems & Networking**  
-Rust, Python, Bash, async WebSockets, NetworkManager, firewalld, WireGuard  
+Rust, Python, Bash, async WebSockets, NetworkManager, firewalld, WireGuard
+
 **Data & Trading Infrastructure**  
-PostgreSQL, TimescaleDB, SQLAlchemy, market-data clients, simulation/runtime integration
+PostgreSQL, TimescaleDB, SQLAlchemy, MLflow, market-data clients, simulation/runtime integration
+
+**Testing & Documentation**  
+pytest, integration testing, Ruff, validation tooling, Sphinx, MkDocs, ADRs, Docs-as-Code
+
+**Development & Delivery**  
+Docker, Docker Compose, Git, GitHub Actions, Dev Containers, GitOps workflows
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kubernetes,terraform,ansible,rust,python,bash,postgres,prometheus,grafana,githubactions" height="36" alt="Engineering tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,rust,python,bash,postgres,prometheus,grafana,git,githubactions"
+    height="36"
+    alt="Engineering tools"
+  />
 </p>
 
 
@@ -35,6 +48,7 @@ Local-first operations lab for reproducible trading-system workflows, built arou
 
 **[Fedora AirVPN Kill Switch](https://github.com/bxvtr/fedora-airvpn-killswitch)**  
 Ansible and Bash automation for AirVPN WireGuard on Fedora using NetworkManager and firewalld to enforce fail-closed, leak-resistant behavior on the documented path. Includes installation/runtime tooling, verification, and live VM validation on Fedora Silverblue 43.
+
 
 ## Additional Engineering Work
 
