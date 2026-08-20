@@ -9,7 +9,7 @@ I build reliability-focused infrastructure and systems tooling around Linux, Kub
 Recent work includes an OCI/MicroK8s platform, operational tooling for backtest and paper workflows, and Fedora networking automation.
 
 
-### Engineering Focus
+## Engineering Focus
 
 **Infrastructure & Reliability**  
 Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm  
@@ -25,7 +25,7 @@ PostgreSQL, TimescaleDB, SQLAlchemy, market-data clients, simulation/runtime int
 </p>
 
 
-### Featured Engineering Projects
+## Featured Engineering Projects
 
 **[TradingChassis Infrastructure](https://github.com/TradingChassis/infrastructure)**  
 Single-node OCI/MicroK8s platform built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges the host and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes clean-room deployment and verification, OCI Vault secret delivery, scratch storage, observability, and static validation.
@@ -36,7 +36,7 @@ Local-first operations lab for reproducible trading-system workflows, built arou
 **[Fedora AirVPN Kill Switch](https://github.com/bxvtr/fedora-airvpn-killswitch)**  
 Ansible and Bash automation for AirVPN WireGuard on Fedora using NetworkManager and firewalld to enforce fail-closed, leak-resistant behavior on the documented path. Includes installation/runtime tooling, verification, and live VM validation on Fedora Silverblue 43.
 
-### Additional Engineering Work
+## Additional Engineering Work
 
 **[OCI Secrets Store CSI Driver Provider — Oracle fork](https://github.com/TradingChassis/oci-secrets-store-csi-driver-provider)**  
 Focused fork adding `linux/amd64` + `linux/arm64` container packaging, GHCR publishing, CI guardrails, and consumer integration while keeping the provider application logic upstream. The ARM64 build path was added to support the OCI Ampere environment used by TradingChassis Infrastructure.
@@ -51,7 +51,7 @@ Python SQLAlchemy/pandas wrapper around TimescaleDB/PostgreSQL with hypertable o
 Thin synchronous Python client for Deribit public historical endpoints with sequence-window trade retrieval and schema-snapshot tooling for response-shape experiments.
 
 
-### Earlier Architecture Explorations
+## Earlier Architecture Explorations
 
 These repositories document an earlier custom-engine direction that was later marked demo / legacy / architectural exploration.
 
@@ -67,10 +67,10 @@ Docs-as-Code architecture corpus with canonical terminology, ADRs, concept/stack
 
 ## Selected open-source contributions
 
-🔎 [**View all external pull requests**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
-
 [**oci-prometheus-sd-proxy Helm Chart**](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/80)  
 Built the initial Kubernetes Helm chart MVP with configurable deployment, external secret integration, security defaults, health probes, and usage docs; foundation later evolved into the [production-ready Helm chart](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/88)
+
+[**View all external pull requests**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
 
 
 ## How I Work
