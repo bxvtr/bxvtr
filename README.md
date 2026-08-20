@@ -4,7 +4,7 @@
   </a>
 </div>
 
-I build reliability-focused infrastructure and systems tooling around Linux, Kubernetes, automation, observability, and trading infrastructure. My work focuses on reproducible environments, explicit system boundaries, failure handling, and practical validation.
+I build reliability-focused infrastructure and systems tooling around Linux, Kubernetes, automation, and observability. My work focuses on reproducible environments, explicit system boundaries, failure handling, and practical validation.
 
 Recent work includes an OCI/MicroK8s platform, operational tooling for backtest and paper workflows, and Fedora networking automation.
 
