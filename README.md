@@ -9,7 +9,7 @@ I build reliability-focused infrastructure and systems tooling around Linux, Kub
 Recent work includes an OCI/MicroK8s platform, operational tooling for backtest and paper workflows, and Fedora networking automation.
 
 
-## Engineering Focus
+### Engineering Focus
 
 **Infrastructure & Reliability**  
 Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm  
@@ -24,8 +24,6 @@ PostgreSQL, TimescaleDB, SQLAlchemy, market-data clients, simulation/runtime int
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,kubernetes,terraform,ansible,rust,python,bash,postgres,prometheus,grafana,githubactions" height="36" alt="Engineering tools"/>
 </p>
 
-
-## Selected Work
 
 ### Featured Engineering Projects
 
@@ -53,7 +51,7 @@ Python SQLAlchemy/pandas wrapper around TimescaleDB/PostgreSQL with hypertable o
 Thin synchronous Python client for Deribit public historical endpoints with sequence-window trade retrieval and schema-snapshot tooling for response-shape experiments.
 
 
-## Earlier Architecture Explorations
+### Earlier Architecture Explorations
 
 These repositories document an earlier custom-engine direction that was later marked demo / legacy / architectural exploration.
 
@@ -67,7 +65,7 @@ Runtime/orchestration prototype integrating hftbacktest, Core event mapping, exp
 Docs-as-Code architecture corpus with canonical terminology, ADRs, concept/stack separation, and versioned MkDocs publishing.
 
 
-## Open-source contributions
+## Selected open-source contributions
 
 🔎 [**View all external pull requests**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
 
