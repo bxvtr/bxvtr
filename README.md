@@ -4,7 +4,7 @@
   </a>
 </div>
 
-I build reliability-focused infrastructure and systems tooling around Linux, Kubernetes, automation, observability, and trading infrastructure. My projects focus on reproducible environments, explicit system boundaries, failure handling, and practical validation.
+I build reliability-focused infrastructure and systems tooling around Linux, Kubernetes, automation, observability, and trading infrastructure. My work focuses on reproducible environments, explicit system boundaries, failure handling, and practical validation.
 
 Recent work includes an OCI/MicroK8s platform, operational tooling for backtest and paper workflows, and Fedora networking automation.
 
@@ -39,7 +39,7 @@ Docker, Docker Compose, Git, GitHub Actions, Dev Containers, GitOps workflows
 </p>
 
 
-## Featured Engineering Projects
+## Featured Engineering Work
 
 **[TradingChassis Infrastructure](https://github.com/TradingChassis/infrastructure)**  
 Single-node OCI/MicroK8s platform built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges the host and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes clean-room deployment and verification, OCI Vault secret delivery, scratch storage, observability, and static validation.
