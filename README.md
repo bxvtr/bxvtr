@@ -92,7 +92,7 @@ Built the initial Kubernetes Helm chart MVP with configurable deployment, extern
 
 I prefer small, reviewable changes, explicit ownership boundaries, and validation that makes technical claims traceable to code or operational evidence. I favor security-minded defaults and treat static CI separately from live validation. I use AI tools as part of the development workflow while keeping implementation, diffs, tests, and verification human-reviewed.
 
-> More detailed engineering notes and evidence are available in the [portfolio records](https://github.com/bxvtr/bxvtr/tree/main/portfolio)
+> More detailed engineering notes and evidence are available in the [portfolio records](https://github.com/bxvtr/bxvtr/tree/main/portfolio).
 
 
 <div>
