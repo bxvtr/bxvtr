@@ -11,10 +11,14 @@ Recent work includes an OCI/MicroK8s platform, operational tooling for backtest 
 
 ## Engineering Focus
 
-**Infrastructure & Reliability** — Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm  
-**Operations & Observability** — Prometheus, Grafana, reconciliation, failure drills, artifact-backed operational evidence  
-**Systems & Networking** — Rust, Python, Bash, async WebSockets, NetworkManager, firewalld, WireGuard  
-**Data & Trading Infrastructure** — PostgreSQL, TimescaleDB, SQLAlchemy, market-data clients, simulation/runtime integration
+**Infrastructure & Reliability**  
+  Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm  
+**Operations & Observability**  
+  Prometheus, Grafana, reconciliation, failure drills, artifact-backed operational evidence  
+**Systems & Networking**  
+  Rust, Python, Bash, async WebSockets, NetworkManager, firewalld, WireGuard  
+**Data & Trading Infrastructure**  
+  PostgreSQL, TimescaleDB, SQLAlchemy, market-data clients, simulation/runtime integration
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,kubernetes,terraform,ansible,rust,python,bash,postgres,prometheus,grafana,githubactions" height="36" alt="Engineering tools"/>
@@ -29,7 +33,7 @@ Recent work includes an OCI/MicroK8s platform, operational tooling for backtest 
 Single-node OCI/MicroK8s research platform built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges the host and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes clean-room deployment and verification, OCI Vault secret delivery, scratch storage, observability, and static validation.
 
 **[TradingChassis Ops Lab](https://github.com/TradingChassis/tradingchassis-ops-lab)**  
-Local-first operations lab for reproducible trading-system workflows, built around spec-driven runs and artifact-backed evidence. Includes reconciliation, failure drills, kill-switch gating, Prometheus/Grafana observability, and NautilusTrader-backed backtest integration, with the focus on operational behavior rather than strategy performance.
+Local-first operations lab for reproducible trading-system workflows, built around spec-driven runs and artifact-backed evidence. Includes reconciliation, failure drills, kill-switch gating, Prometheus/Grafana observability, and NautilusTrader-backed backtest integration, with the focus on operational behavior.
 
 **[Fedora AirVPN Kill Switch](https://github.com/bxvtr/fedora-airvpn-killswitch)**  
 Ansible and Bash automation for AirVPN WireGuard on Fedora using NetworkManager and firewalld to enforce fail-closed, leak-resistant behavior on the documented path. Includes installation/runtime tooling, verification, and live VM validation on Fedora Silverblue 43.
