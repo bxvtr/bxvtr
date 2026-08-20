@@ -80,12 +80,12 @@ Runtime/orchestration prototype integrating hftbacktest, Core event mapping, exp
 Docs-as-Code architecture corpus with canonical terminology, ADRs, concept/stack separation, and versioned MkDocs publishing.
 
 
-## Selected open-source contributions
+## Open-source contributions
 
 [**oci-prometheus-sd-proxy Helm Chart**](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/80)  
 Built the initial Kubernetes Helm chart MVP with configurable deployment, external secret integration, security defaults, health probes, and usage docs; foundation later evolved into the [production-ready Helm chart](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/88).
 
-[**View all external pull requests**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
+[**View all external pull requests**](https://github.com/search?q=is%3Apr+author%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+is%3Amerged&type=pullrequests)
 
 
 ## How I Work
