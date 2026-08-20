@@ -4,215 +4,66 @@
   </a>
 </div>
 
+I build reliability-focused infrastructure and systems tooling around Linux, Kubernetes, automation, observability, and trading infrastructure. My projects focus on reproducible environments, explicit system boundaries, failure handling, and practical validation.
 
-### Through my projects, I’ve gained hands-on experience with:
-
-#### Languages
-
-<img
-  src="https://skillicons.dev/icons?i=python,bash"
-  height="48"
-  title="Python, Bash"
-  alt="Python, Bash"
-/>
-
-#### Infrastructure
-
-<img
-  src="https://skillicons.dev/icons?i=ubuntu,docker,kubernetes"
-  height="48"
-  title="Ubuntu, Docker, Kubernetes"
-  alt="Ubuntu, Docker, Kubernetes"
-/>
-<img
-  src="https://cdn.simpleicons.org/docker/2496ED"
-  height="48"
-  title="Docker Compose"
-  alt="Docker Compose"
-/>
-<img
-  src="https://cdn.simpleicons.org/terraform/844FBA"
-  height="48"
-  title="Terraform"
-  alt="Terraform"
-/>
-<img
-  src="https://cdn.simpleicons.org/ansible/B83A3A"
-  height="48"
-  title="Ansible"
-  alt="Ansible"
-/>
-<img
-  src="https://img.shields.io/badge/OCI-0B2447?style=for-the-badge&logo=icloud&logoColor=white"
-  height="36"
-  title="Oracle Cloud Infrastructure"
-  alt="Oracle Cloud Infrastructure"
-/>
-
-#### Observability
-
-<img
-  src="https://skillicons.dev/icons?i=prometheus,grafana"
-  height="48"
-  title="Prometheus, Grafana"
-  alt="Prometheus, Grafana"
-/>
-
-#### Data / Storage
-
-<img
-  src="https://skillicons.dev/icons?i=postgres"
-  height="48"
-  title="PostgreSQL"
-  alt="PostgreSQL"
-/>
-<img
-  src="https://cdn.simpleicons.org/timescale/FD9B27?viewbox=auto&size=48"
-  height="48"
-  title="TimescaleDB"
-  alt="TimescaleDB"
-/>
-<img
-  src="https://cdn.simpleicons.org/minio/C72E49?viewbox=auto&size=48"
-  height="48"
-  title="MinIO / S3-compatible object storage"
-  alt="MinIO"
-/>
-<img
-  src="https://cdn.simpleicons.org/sqlalchemy/D71F00"
-  height="48"
-  title="SQLAlchemy"
-  alt="SQLAlchemy"
-/>
-
-#### GitOps / Delivery
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,githubactions"
-  height="48"
-  title="Git, GitHub, GitHub Actions"
-  alt="Git, GitHub, GitHub Actions"
-/>
-<img
-  src="https://cdn.simpleicons.org/argo/EF7B4D"
-  height="48"
-  title="Argo CD / Argo Workflows"
-  alt="Argo"
-/>
-<img
-  src="https://cdn.simpleicons.org/mlflow/0194E2"
-  height="48"
-  title="MLflow"
-  alt="MLflow"
-/>
-<img
-  src="https://cdn.simpleicons.org/helm/58A6FF"
-  height="48"
-  title="Helm"
-  alt="Helm"
-/>
-<img
-  src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
-  height="32"
-  title="Kustomize"
-  alt="Kustomize"
-/>
-
-#### Testing / Documentation
-
-<img
-  src="https://cdn.simpleicons.org/pytest/0A9EDC"
-  height="48"
-  title="pytest"
-  alt="pytest"
-/>
-<img
-  src="https://cdn.simpleicons.org/ruff/D7FF64"
-  height="48"
-  title="Ruff"
-  alt="Ruff"
-/>
-<img
-  src="https://cdn.simpleicons.org/sphinx/B6BEC9"
-  height="48"
-  title="Sphinx"
-  alt="Sphinx"
-/>
-<img
-  src="https://cdn.simpleicons.org/materialformkdocs/526CFE"
-  height="48"
-  title="MkDocs"
-  alt="MkDocs"
-/>
-
-#### Workspace
-
-<img
-  src="./assets/silverblue-logo.svg"
-  height="48"
-  title="Fedora Silverblue"
-  alt="Fedora Silverblue"
-/>
-<img
-  src="https://cdn.simpleicons.org/hyprland/58E1FF"
-  height="48"
-  title="Hyprland"
-  alt="Hyprland"
-/>
-<img
-  src="https://skillicons.dev/icons?i=vscode"
-  height="48"
-  title="VS Code"
-  alt="VS Code"
-/>
-<img
-  src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark"
-  height="48"
-  title="Cursor"
-  alt="Cursor"
-/>
+Recent work includes an OCI/MicroK8s platform, operational tooling for backtest and paper workflows, and Fedora networking automation.
 
 
-### Selected Work
+## Engineering Focus
 
-#### Platform Engineering & Operations
+**Infrastructure & Reliability** — Linux, OCI, Terraform, Ansible, Kubernetes / MicroK8s, Argo CD, Helm  
+**Operations & Observability** — Prometheus, Grafana, reconciliation, failure drills, artifact-backed operational evidence  
+**Systems & Networking** — Rust, Python, Bash, async WebSockets, NetworkManager, firewalld, WireGuard  
+**Data & Trading Infrastructure** — PostgreSQL, TimescaleDB, SQLAlchemy, market-data clients, simulation/runtime integration
 
-- ☁️ [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure)  
-  GitOps-driven Kubernetes YAML IaC on OCI with MicroK8s, Argo CD, Argo Workflows, MLflow, observability, and secrets management
-
-- 🧪 [**TradingChassis Ops Lab**](https://github.com/TradingChassis/tradingchassis-ops-lab)  
-  Local-first operations lab for reproducible run workflows, artifact-backed observability, safety controls, and operational evidence
-
-- 🔐 [**Fork: oci-secrets-store-csi-driver-provider**](https://github.com/TradingChassis/oci-secrets-store-csi-driver-provider)  
-  Supporting OCI Secrets Store CSI integration with multi-arch image builds for Kubernetes secret delivery; used by [**TradingChassis Infrastructure**](https://github.com/TradingChassis/infrastructure)
-
-#### Systems & Runtime
-
-- ⚙️ [**TradingChassis Core**](https://github.com/TradingChassis/core)  
-  Legacy deterministic event-driven trading decision engine with shared backtest/live semantics
-
-- 🚦 [**TradingChassis Core Runtime**](https://github.com/TradingChassis/core-runtime)  
-  Legacy runtime orchestration layer for reproducible backtesting environments
-
-- 📚 [**TradingChassis Docs**](https://github.com/TradingChassis/docs)  
-  Legacy documentation archive for architecture, ADRs, concepts, operations, and system evolution
-
-#### Data Engineering & Developer Tools
-
-- 🌐 [**Fedora AirVPN Kill Switch**](https://github.com/bxvtr/fedora-airvpn-killswitch)  
-  Ansible and Bash automation for AirVPN WireGuard on Fedora with NetworkManager and fail-closed firewall protection
-
-- 📈 [**Timescale Access**](https://github.com/bxvtr/timescale-access)  
-  Deterministic Python wrapper for TimescaleDB/PostgreSQL focused on reproducible time-series ingestion and schema utilities
-
-- 📡 [**Deribit History Client**](https://github.com/bxvtr/deribit-history-client)  
-  Python client for historical market data with clean request abstractions and optional API-shape drift detection
-
-- ⏱️ [**Deribit Latency Tester**](https://github.com/bxvtr/deribit-latency-tester)  
-  Rust tool for measuring exchange latency, tick timing, failures, and operation-level response behavior
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kubernetes,terraform,ansible,rust,python,bash,postgres,prometheus,grafana,githubactions" height="36" alt="Engineering tools"/>
+</p>
 
 
-### Open-source contributions
+## Selected Work
+
+### Featured Engineering Projects
+
+**[TradingChassis Infrastructure](https://github.com/TradingChassis/infrastructure)**  
+Single-node OCI/MicroK8s research platform built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges the host and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes clean-room deployment and verification, OCI Vault secret delivery, scratch storage, observability, and static validation.
+
+**[TradingChassis Ops Lab](https://github.com/TradingChassis/tradingchassis-ops-lab)**  
+Local-first operations lab for reproducible trading-system workflows, built around spec-driven runs and artifact-backed evidence. Includes reconciliation, failure drills, kill-switch gating, Prometheus/Grafana observability, and NautilusTrader-backed backtest integration, with the focus on operational behavior rather than strategy performance.
+
+**[Fedora AirVPN Kill Switch](https://github.com/bxvtr/fedora-airvpn-killswitch)**  
+Ansible and Bash automation for AirVPN WireGuard on Fedora using NetworkManager and firewalld to enforce fail-closed, leak-resistant behavior on the documented path. Includes installation/runtime tooling, verification, and live VM validation on Fedora Silverblue 43.
+
+### Additional Engineering Work
+
+**[OCI Secrets Store CSI Driver Provider — Oracle fork](https://github.com/TradingChassis/oci-secrets-store-csi-driver-provider)**  
+Focused fork adding `linux/amd64` + `linux/arm64` container packaging, GHCR publishing, CI guardrails, and consumer integration while keeping the provider application logic upstream.
+
+**[Deribit Latency Tester](https://github.com/bxvtr/deribit-latency-tester)**  
+Async Rust WebSocket measurement client for application-observed JSON-RPC round-trip timing, Deribit-reported processing timestamps, and private order lifecycle experiments.
+
+**[Timescale Access](https://github.com/bxvtr/timescale-access)**  
+Python SQLAlchemy/pandas wrapper around TimescaleDB/PostgreSQL with hypertable orchestration, trade-like time-series ingestion and analysis helpers, and local integration tests.
+
+**[Deribit History Client](https://github.com/bxvtr/deribit-history-client)**  
+Thin synchronous Python client for Deribit public historical endpoints with sequence-window trade retrieval and schema-snapshot tooling for response-shape experiments.
+
+
+## Earlier Architecture Explorations
+
+These repositories document an earlier custom-engine direction that was later marked legacy / architectural exploration.
+
+**[TradingChassis Core](https://github.com/TradingChassis/core)**  
+Deterministic event-driven decision-engine prototype exploring canonical events, intents, policy admission, and execution-control boundaries.
+
+**[TradingChassis Core Runtime](https://github.com/TradingChassis/core-runtime)**  
+Runtime/orchestration prototype integrating hftbacktest, Core event mapping, experiment sweeps, OCI artifacts, and Argo workflow definitions.
+
+**[TradingChassis Docs](https://github.com/TradingChassis/docs)**  
+Docs-as-Code architecture corpus with canonical terminology, ADRs, concept/stack separation, and versioned MkDocs publishing.
+
+
+## Open-source contributions
 
 🔎 [**View all external pull requests**](https://github.com/pulls/involves?q=is%3Apr+involves%3Abxvtr+-user%3Abxvtr+-user%3ATradingChassis+%28is%3Aopen+OR+is%3Amerged%29)
 
@@ -220,16 +71,9 @@
   Built the initial Kubernetes Helm chart MVP with configurable deployment, external secret integration, security defaults, health probes, and usage docs; foundation later evolved into the [production-ready Helm chart](https://github.com/amaanx86/oci-prometheus-sd-proxy/pull/88)
 
 
-### Operating Style
+## How I Work
 
-- 🎯 **Scoped**  
-  Small, reviewable changes with clear boundaries
-
-- 🤖 **AI-assisted, human-reviewed**  
-  ChatGPT & Cursor support; human-owned tests, diffs, verifications
-
-- 🛡️ **Security-minded**  
-  Secret handling, least-privilege defaults, supply-chain awareness
+I prefer small, reviewable changes, explicit ownership boundaries, and validation that makes technical claims traceable to code or operational evidence. I favor security-minded defaults and treat static CI separately from live validation. I use AI tools as part of the development workflow while keeping implementation, diffs, tests, and verification human-reviewed.
 
 
 <div>
