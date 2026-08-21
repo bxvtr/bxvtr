@@ -20,7 +20,7 @@ Prometheus, Grafana, reconciliation, failure drills, artifact-backed operational
 **Systems & Networking**  
 Rust, Python, Bash, async WebSockets, NetworkManager, firewalld, WireGuard
 
-**Data & Trading Infrastructure**  
+**Data & Platform Infrastructure**  
 PostgreSQL, TimescaleDB, SQLAlchemy, MLflow, market-data clients, simulation/runtime integration
 
 **Testing & Documentation**  
