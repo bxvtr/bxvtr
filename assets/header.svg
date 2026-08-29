@@ -78,7 +78,7 @@
     class="text"
     style="fill: #58A6FF"
   >
-    a self-directed learner in Reliability Engineering
+    a self-directed learner in Infrastructure Engineering
   </text>
   <text
     text-anchor="middle"
@@ -88,6 +88,6 @@
     class="desc"
     style="fill: #c9d1d9"
   >
-    focused on deployment, observability, and automation.
+    focused on reliability, automation, and observability.
   </text>
 </svg>
