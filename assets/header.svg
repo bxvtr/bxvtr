@@ -67,7 +67,7 @@
     class="intro"
     style="fill: #c9d1d9"
   >
-    Hi, I&apos;m
+    Hi, I&apos;m an
   </text>
 
   <text
@@ -78,7 +78,7 @@
     class="text"
     style="fill: #58A6FF"
   >
-    a self-directed learner in Infrastructure Engineering
+    infrastructure engineering candidate with
   </text>
   <text
     text-anchor="middle"
@@ -88,6 +88,6 @@
     class="desc"
     style="fill: #c9d1d9"
   >
-    focused on reliability, automation, and observability.
+    hands-on experience in Linux, infrastructure automation, reliability, and observability.
   </text>
 </svg>
