@@ -31,10 +31,10 @@ Docker, Docker Compose, Git, GitHub Actions, Dev Containers, GitOps workflows
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,rust,python,bash,postgres,prometheus,grafana,git,githubactions"
+    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,postgres,prometheus,grafana,git,githubactions"
     height="36"
-    title="Linux, Docker, Kubernetes, Terraform, Ansible, Rust, Python, Bash, PostgreSQL, Prometheus, Grafana, Git, GitHub Actions"
-    alt="Linux, Docker, Kubernetes, Terraform, Ansible, Rust, Python, Bash, PostgreSQL, Prometheus, Grafana, Git, GitHub Actions"
+    title="Linux, Docker, Kubernetes, Terraform, Ansible, Python, Bash, PostgreSQL, Prometheus, Grafana, Git, GitHub Actions"
+    alt="Linux, Docker, Kubernetes, Terraform, Ansible, Python, Bash, PostgreSQL, Prometheus, Grafana, Git, GitHub Actions"
   />
 </p>
 
