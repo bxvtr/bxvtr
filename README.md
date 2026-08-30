@@ -15,7 +15,7 @@ Recent work includes an OCI/MicroK8s platform, operational tooling for backtest 
 Reproducible single-node OCI/MicroK8s platform built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges Linux host configuration and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes a live-validated clean-room deployment path, reboot/post-reboot convergence, OCI Vault-backed secret delivery, observability, and lifecycle validation.
 
 **[TradingChassis Ops Lab](https://github.com/TradingChassis/tradingchassis-ops-lab)**  
-Local-first operations and reliability lab built around reproducible, spec-driven workflows and artifact-backed operational evidence. Includes reconciliation checks, failure drills and runbooks, file-based safety controls, Prometheus/Grafana observability, and NautilusTrader-backed workflow integration focused on operational behavior.
+Local-first operations and reliability lab built around reproducible, spec-driven workflows and artifact-backed operational evidence. Includes reconciliation checks, failure drills, runbooks, file-based safety controls, Prometheus/Grafana observability, and NautilusTrader-backed workflow integration focused on operational behavior.
 
 **[Fedora AirVPN Kill Switch](https://github.com/bxvtr/fedora-airvpn-killswitch)**  
 Ansible and Bash automation for AirVPN WireGuard on Fedora using NetworkManager and firewalld, designed around fail-closed, leak-resistant behavior on the documented path. Includes installation/runtime tooling, layered validation, installed-state verification, and opt-in live lifecycle testing in disposable Fedora virtual machines.
