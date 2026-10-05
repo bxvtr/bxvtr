@@ -6,13 +6,11 @@
 
 I build reliability-focused infrastructure and systems tooling around Linux, Kubernetes, automation, and observability. My work focuses on reproducible environments, explicit system boundaries, failure handling, and practical validation.
 
-Recent work includes an OCI/MicroK8s platform, operational tooling for backtest and synthetic paper workflows, and Fedora networking automation.
-
 
 ## Featured Engineering Work
 
 **[TradingChassis Infrastructure](https://github.com/TradingChassis/infrastructure)**  
-Reproducible single-node OCI/MicroK8s platform built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges Linux host configuration and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes a live-validated clean-room deployment path, reboot/post-reboot convergence, OCI Vault-backed secret delivery, observability, and lifecycle validation.
+Reproducible OCI/MicroK8s single-node infrastructure built around explicit ownership boundaries: Terraform provisions cloud resources, Ansible converges Linux host configuration and Kubernetes bootstrap, and Argo CD owns long-lived cluster state. Includes a live-validated clean-room deployment path, reboot/post-reboot convergence, OCI Vault-backed secret delivery, observability, and lifecycle validation.
 
 **[TradingChassis Ops Lab](https://github.com/TradingChassis/tradingchassis-ops-lab)**  
 Local-first operations and reliability lab built around reproducible, spec-driven workflows and artifact-backed operational evidence. Includes reconciliation checks, failure drills, runbooks, file-based safety controls, Prometheus/Grafana observability, and NautilusTrader-backed workflow integration focused on operational behavior.
